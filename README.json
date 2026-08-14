@@ -1,0 +1,354 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Unleashing the Power of Large-Scale Unlabeled Data",
+          "description": ", CVPR 2024 | github huggingface",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-17T10:46:05Z",
+            "owner": "LiheYoung",
+            "repo": "Depth-Anything",
+            "stars": 8178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Depth Pro: Sharp Monocular Metric Depth in Less Than a Second",
+          "description": "(precise focal length estimation with metric depth), arXiv 2024 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-21T12:13:43Z",
+            "owner": "apple",
+            "repo": "ml-depth-pro",
+            "stars": 5667
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marigold: Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation",
+          "description": "(diffusion), CVPR 2024 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-10T09:56:30Z",
+            "owner": "prs-eth",
+            "repo": "Marigold",
+            "stars": 3194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UniDepth: Universal Monocular Metric Depth Estimation",
+          "description": ", (universal metric depth estimation; one's zero-shot performance match depth-anything on NYUv2), CVPR 2024 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-18T21:52:52Z",
+            "owner": "lpiccinelli-eth",
+            "repo": "UniDepth",
+            "stars": 1241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unleashing Text-to-Image Diffusion Models for Visual Perception",
+          "description": "(Diffusion), ICCV 2023 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-12-21T02:22:30Z",
+            "owner": "wl-zhao",
+            "repo": "VPD",
+            "stars": 541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Video Depth Stabilizer",
+          "description": ", ICCV 2023 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-18T06:06:16Z",
+            "owner": "RaymondWang987",
+            "repo": "NVDS",
+            "stars": 528
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Video Depth Stabilizer",
+          "description": ", ICCV 2023 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-18T06:06:16Z",
+            "owner": "RaymondWang987",
+            "repo": "NVDS",
+            "stars": 528
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeW CRFs: Neural Window Fully-connected CRFs for Monocular Depth Estimation",
+          "description": ", CVPR 2022 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-31T09:09:26Z",
+            "owner": "aliyun",
+            "repo": "NeWCRFs",
+            "stars": 403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Internal Discretization for Monocular Depth Estimation",
+          "description": "(tokenization approach), CVPR 2023 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-14T16:52:33Z",
+            "owner": "SysCV",
+            "repo": "idisc",
+            "stars": 292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation",
+          "description": "(diffusion), CVPR 2024 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-20T14:24:04Z",
+            "owner": "Aradhye2002",
+            "repo": "EcoDepth",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DDP: Diffusion Model for Dense Visual Prediction",
+          "description": "(Diffusion), arXiv 2023 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-24T10:27:26Z",
+            "owner": "JiYuanFeng",
+            "repo": "DDP",
+            "stars": 213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Revealing the Dark Secrets of Masked Image Modeling",
+          "description": "(tokenization approach), CVPR 2023 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-27T05:03:49Z",
+            "owner": "SwinTransformer",
+            "repo": "MIM-Depth-Estimation",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robust Monocular Depth Estimation under Challenging Conditions",
+          "description": ", ICCV 2023 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-21T13:34:03Z",
+            "owner": "md4all",
+            "repo": "md4all",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VA-DepthNet: A Variational Approach to Single Image Depth Prediction",
+          "description": ", ICLR 2023 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-28T13:55:17Z",
+            "owner": "cnexah",
+            "repo": "VA-DepthNet",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "All in Tokens: Unifying Output Space of Visual Tasks via Soft Token",
+          "description": "(tokenized), arXiv 2023 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-30T02:08:08Z",
+            "owner": "SwinTransformer",
+            "repo": "AiT",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PixelFormer: Attention Attention Everywhere: Monocular Depth Prediction with Skip Attention",
+          "description": "(Diffusion), WACV 2023 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-13T06:28:42Z",
+            "owner": "ashutosh1807",
+            "repo": "PixelFormer",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IEBins: Iterative Elastic Bins for Monocular Depth Estimation",
+          "description": ", NeurIPS 2023 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-24T01:48:53Z",
+            "owner": "ShuweiShao",
+            "repo": "IEBins",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EVP: Enhanced Visual Perception using Inverse Multi-Attentive Feature Refinement and Regularized Image-Text Alignment",
+          "description": "(Diffusion), arXiv 2023 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-05-26T11:46:29Z",
+            "owner": "Lavreniuk",
+            "repo": "EVP",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Harnessing Diffusion Models for Visual Perception with Meta Prompts",
+          "description": "(diffusion), arxiv 2024 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-08T16:44:51Z",
+            "owner": "fudan-zvg",
+            "repo": "meta-prompts",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Harnessing Diffusion Models for Visual Perception with Meta Prompts",
+          "description": ", arXiv 2023 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-08T16:44:51Z",
+            "owner": "fudan-zvg",
+            "repo": "meta-prompts",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Improving Deep Regression with Ordinal Entropy",
+          "description": ", ICLR 2023 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-15T08:23:03Z",
+            "owner": "needylove",
+            "repo": "OrdinalEntropy",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WorDepth: Variational Language Prior for Monocular Depth Estimation",
+          "description": ", CVPR 2024 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-04T23:03:07Z",
+            "owner": "Adonis-galaxy",
+            "repo": "WorDepth",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Text-Image Alignment for Diffusion-Based Perception",
+          "description": "(Diffusion), CVPR 2024 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-26T16:02:11Z",
+            "owner": "damaggu",
+            "repo": "TADP",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LocalBins: Improving Depth Estimation by Learning Local Distributions",
+          "description": ", CVPR 2022 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-20T03:58:49Z",
+            "owner": "shariqfarooq123",
+            "repo": "LocalBins",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Papers"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T14:19:31.812Z",
+    "original_repository": "choyingw/Awesome-Monocular-Depth",
+    "original_repository_sha": "6e09aa653e9bcf7c89da6de212979495aabdc158",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Monocular-Depth",
+    "enhanced_repository_description": null,
+    "title": "Awesome Monocular Depth Estimation with stars"
+  }
+}
