@@ -14,7 +14,7 @@
             "last_commit": "2024-07-17T10:46:05Z",
             "owner": "LiheYoung",
             "repo": "Depth-Anything",
-            "stars": 8178
+            "stars": 8179
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2025-04-21T12:13:43Z",
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5669
+            "stars": 5672
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2025-05-18T21:52:52Z",
             "owner": "lpiccinelli-eth",
             "repo": "UniDepth",
-            "stars": 1241
+            "stars": 1242
           }
         },
         {
@@ -344,7 +344,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:41:09.945Z",
+    "last_updated": "2026-08-16T13:42:01.097Z",
     "original_repository": "choyingw/Awesome-Monocular-Depth",
     "original_repository_sha": "6e09aa653e9bcf7c89da6de212979495aabdc158",
     "enhanced_repository": "enhansome/enhansome-Awesome-Monocular-Depth",
