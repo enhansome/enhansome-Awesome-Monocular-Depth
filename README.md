@@ -1,6 +1,6 @@
 # Awesome Monocular Depth Estimation with stars
 
-A list of recent monocular depth estimation work, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,503 | 🐛 91 | 📅 2024-05-17.
+A list of recent monocular depth estimation work, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,505 | 🐛 91 | 📅 2024-05-17.
 
 The list is mainly focusing on recent work after 2020
 
