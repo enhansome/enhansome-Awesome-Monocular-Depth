@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": "Indoor dataset with a focus on space type",
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 746430967,
             "language": "Python",
             "last_commit": "2024-07-17T10:46:05Z",
             "owner": "LiheYoung",
             "repo": "Depth-Anything",
-            "stars": 8179
+            "stars": 8177
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 847933360,
             "language": "Python",
             "last_commit": "2025-04-21T12:13:43Z",
             "owner": "apple",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 724328776,
             "language": "Python",
             "last_commit": "2025-12-10T09:56:30Z",
             "owner": "prs-eth",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 777348319,
             "language": "Python",
             "last_commit": "2025-05-18T21:52:52Z",
             "owner": "lpiccinelli-eth",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 609230704,
             "language": "Jupyter Notebook",
             "last_commit": "2023-12-21T02:22:30Z",
             "owner": "wl-zhao",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 650499052,
             "language": "Python",
             "last_commit": "2024-10-18T06:06:16Z",
             "owner": "RaymondWang987",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 650499052,
             "language": "Python",
             "last_commit": "2024-10-18T06:06:16Z",
             "owner": "RaymondWang987",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 478490363,
             "language": "Python",
             "last_commit": "2024-07-31T09:09:26Z",
             "owner": "aliyun",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 628266408,
             "language": "Python",
             "last_commit": "2023-08-14T16:52:33Z",
             "owner": "SysCV",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 773384846,
             "language": "Python",
             "last_commit": "2025-11-20T14:24:04Z",
             "owner": "Aradhye2002",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 620594990,
             "language": "Python",
             "last_commit": "2024-02-24T10:27:26Z",
             "owner": "JiYuanFeng",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 587640154,
             "language": "Python",
             "last_commit": "2023-03-27T05:03:49Z",
             "owner": "SwinTransformer",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 669734683,
             "language": "Python",
             "last_commit": "2023-11-21T13:34:03Z",
             "owner": "md4all",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 600467234,
             "language": "Python",
             "last_commit": "2023-04-28T13:55:17Z",
             "owner": "cnexah",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 585632173,
             "language": "Python",
             "last_commit": "2023-06-30T02:08:08Z",
             "owner": "SwinTransformer",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 550789793,
             "language": "Python",
             "last_commit": "2023-02-13T06:28:42Z",
             "owner": "ashutosh1807",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 694969983,
             "language": "Python",
             "last_commit": "2026-03-24T01:48:53Z",
             "owner": "ShuweiShao",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 732050233,
             "language": "Jupyter Notebook",
             "last_commit": "2025-05-26T11:46:29Z",
             "owner": "Lavreniuk",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 725876091,
             "language": "Python",
             "last_commit": "2025-02-08T16:44:51Z",
             "owner": "fudan-zvg",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 725876091,
             "language": "Python",
             "last_commit": "2025-02-08T16:44:51Z",
             "owner": "fudan-zvg",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 591571293,
             "language": "Python",
             "last_commit": "2023-09-15T08:23:03Z",
             "owner": "needylove",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 777963959,
             "language": "Python",
             "last_commit": "2025-02-04T23:03:07Z",
             "owner": "Adonis-galaxy",
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 687096643,
             "language": "Python",
             "last_commit": "2024-08-26T16:02:11Z",
             "owner": "damaggu",
@@ -332,11 +355,612 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 475181749,
             "language": "Python",
             "last_commit": "2022-07-20T03:58:49Z",
             "owner": "shariqfarooq123",
             "repo": "LocalBins",
             "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation",
+          "description": ", ICCV 2023 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 569721612,
+            "language": "Python",
+            "last_commit": "2023-12-11T13:32:11Z",
+            "owner": "noahzn",
+            "repo": "Lite-Mono",
+            "stars": 712
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Toward Practical Monocular Indoor Depth Estimation",
+          "description": ", CVPR 2022 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 478314751,
+            "language": "Python",
+            "last_commit": "2025-03-03T20:30:11Z",
+            "owner": "facebookresearch",
+            "repo": "DistDepth",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-supervised monocular depth estimation with a vision transformer",
+          "description": ", 3DV 2022 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 520394168,
+            "language": "Python",
+            "last_commit": "2023-04-03T09:17:51Z",
+            "owner": "zxcqlf",
+            "repo": "MonoViT",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLdepth: Generalizable Self-Supervised Fine-Structured Monocular Depth Estimation",
+          "description": ", AAAI 2024 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 673799994,
+            "language": "Python",
+            "last_commit": "2024-04-11T07:57:59Z",
+            "owner": "hisfog",
+            "repo": "SfMNeXt-Impl",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RA-Depth: Resolution Adaptive Self-Supervised Monocular Depth Estimation",
+          "description": ", ECCV 2022 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 512185600,
+            "language": "Python",
+            "last_commit": "2022-10-13T14:57:53Z",
+            "owner": "hmhemu",
+            "repo": "RA-Depth",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Devnet: Self-supervised monocular depth learning via density volume construction",
+          "description": ", ECCV 2022 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 515895726,
+            "language": "Python",
+            "last_commit": "2023-07-14T13:33:05Z",
+            "owner": "kaichen-z",
+            "repo": "DevNet",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dusk Till Dawn: Self-supervised Nighttime Stereo Depth Estimation using Visual Foundation Models",
+          "description": ", ICRA 2024 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 692454526,
+            "language": "Python",
+            "last_commit": "2024-05-15T08:57:33Z",
+            "owner": "madhubabuv",
+            "repo": "dtd",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mining Supervision for Dynamic Regions in Self-Supervised Monocular Depth Estimat",
+          "description": ", CVPR 2024 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 778615434,
+            "language": "Python",
+            "last_commit": "2025-03-06T04:37:35Z",
+            "owner": "HoangChuongNguyen",
+            "repo": "mono-consistent-depth",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unleashing the Power of Large-Scale Unlabeled Data",
+          "description": ", CVPR 2024 | github huggingface",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 746430967,
+            "language": "Python",
+            "last_commit": "2024-07-17T10:46:05Z",
+            "owner": "LiheYoung",
+            "repo": "Depth-Anything",
+            "stars": 8177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Depth Pro: Sharp Monocular Metric Depth in Less Than a Second",
+          "description": "(precise focal length estimation with metric depth), arXiv 2024 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 847933360,
+            "language": "Python",
+            "last_commit": "2025-04-21T12:13:43Z",
+            "owner": "apple",
+            "repo": "ml-depth-pro",
+            "stars": 5677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth",
+          "description": ", arXiv 2023 | github",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 565837677,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-05-05T18:18:49Z",
+            "owner": "isl-org",
+            "repo": "ZoeDepth",
+            "stars": 2841
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image",
+          "description": ", ICCV 2023 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 666648523,
+            "language": "Python",
+            "last_commit": "2025-03-13T07:25:00Z",
+            "owner": "YvanYin",
+            "repo": "Metric3D",
+            "stars": 2297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UniDepth: Universal Monocular Metric Depth Estimation",
+          "description": ", (universal metric depth estimation; one's zero-shot performance match depth-anything on NYUv2), CVPR 2024 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 777348319,
+            "language": "Python",
+            "last_commit": "2025-05-18T21:52:52Z",
+            "owner": "lpiccinelli-eth",
+            "repo": "UniDepth",
+            "stars": 1244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Toward Practical Monocular Indoor Depth Estimation",
+          "description": ", CVPR 2022 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 478314751,
+            "language": "Python",
+            "last_commit": "2025-03-03T20:30:11Z",
+            "owner": "facebookresearch",
+            "repo": "DistDepth",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning single camera depth estimation using dual-pixels",
+          "description": ", ICCV 2019 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 151619717,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-16T18:45:46Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 38579
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shakes on a Plane: Unsupervised Depth Estimation from Unstabilized Photography",
+          "description": ", CVPR 2023 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 581722024,
+            "language": "Python",
+            "last_commit": "2025-02-18T19:37:41Z",
+            "owner": "princeton-computational-imaging",
+            "repo": "SoaP",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fully Self-Supervised Depth Estimation from Defocus Clue",
+          "description": ", CVPR 2023 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 601950581,
+            "language": "Python",
+            "last_commit": "2023-06-03T04:48:43Z",
+            "owner": "Ehzoahis",
+            "repo": "DEReD",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dual pixel exploration: Simultaneous depth estimation and image restoration",
+          "description": ", CVPR 2021 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 343990424,
+            "language": "Python",
+            "last_commit": "2022-04-24T14:50:51Z",
+            "owner": "panpanfei",
+            "repo": "Dual-Pixel-Exploration-Simultaneous-Depth-Estimation-and-Image-Restoration",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modeling Defocus-Disparity in Dual-Pixel Sensors",
+          "description": ", ICCP 2020 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 268426133,
+            "language": "MATLAB",
+            "last_commit": "2021-03-20T20:22:18Z",
+            "owner": "abhijithpunnappurath",
+            "repo": "dual-pixel-defocus-disparity",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SynWoodScape: Synthetic Surround-view Fisheye Camera Dataset for Autonomous Driving",
+          "description": ", RAL 2021 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 199622246,
+            "language": "Python",
+            "last_commit": "2023-08-26T16:16:46Z",
+            "owner": "valeoai",
+            "repo": "WoodScape",
+            "stars": 711
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SlaBins: Fisheye Depth Estimation using Slanted Bins on Road Environments",
+          "description": ", ICCV 2023 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 712303958,
+            "language": "Python",
+            "last_commit": "2024-09-30T05:58:13Z",
+            "owner": "Syniez",
+            "repo": "SlaBins",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "360MonoDepth: High-Resolution 360 ∘ Monocular Depth Estimation",
+          "description": ", CVPR 2022 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 476382020,
+            "language": "Python",
+            "last_commit": "2024-06-03T07:27:02Z",
+            "owner": "manurare",
+            "repo": "360monodepth",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PanoFormer: Panorama Transformer for Indoor 360 Depth Estimation",
+          "description": ", ECCV 2022 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 465994895,
+            "language": "Python",
+            "last_commit": "2025-04-14T01:15:47Z",
+            "owner": "zhijieshen-bjtu",
+            "repo": "PanoFormer",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Omnifusion: 360 monocular depth estimation via geometry-aware fusion",
+          "description": ", CVPR 2022 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 454949685,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-02-13T08:05:23Z",
+            "owner": "yuliangguo",
+            "repo": "OmniFusion",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FreDSNet: Joint Monocular Depth and Semantic Segmentation with Fast Fourier Convolutions",
+          "description": ", ICRA 2023 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 536070187,
+            "language": "Python",
+            "last_commit": "2023-10-26T10:23:18Z",
+            "owner": "Sbrunoberenguel",
+            "repo": "FreDSNet",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EGformer: Equirectangular Geometry-biased Transformer for 360 Depth Estimation",
+          "description": ", ICCV 2023 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 697140461,
+            "language": "Python",
+            "last_commit": "2024-02-25T06:53:24Z",
+            "owner": "yuniw18",
+            "repo": "EGformer",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SphereDepth: Panorama Depth Estimation from Spherical Domain",
+          "description": ", CVPR 2022 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 525019061,
+            "language": null,
+            "last_commit": "2022-08-30T02:15:53Z",
+            "owner": "yanqswhu",
+            "repo": "SphereDepth",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PENet: Towards Precise and Efficient Image Guided Depth Completion",
+          "description": ", ICRA 2021 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 342535906,
+            "language": "Python",
+            "last_commit": "2021-05-16T15:50:31Z",
+            "owner": "JUGGHM",
+            "repo": "PENet_ICRA2021",
+            "stars": 361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Non-Local Spatial Propagation Network for Depth Completion",
+          "description": ", ECCV 2020 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 277120690,
+            "language": "Python",
+            "last_commit": "2021-01-25T07:13:37Z",
+            "owner": "zzangjinsun",
+            "repo": "NLSPN_ECCV20",
+            "stars": 344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CompletionFormer: Depth Completion with Convolutions and Vision Transformers",
+          "description": ", CVPR 2023 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 616390726,
+            "language": "Python",
+            "last_commit": "2024-04-16T05:46:52Z",
+            "owner": "youmi-zym",
+            "repo": "CompletionFormer",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monitored Distillation for Positive Congruent Depth Completion",
+          "description": ", ECCV 2022 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 399204576,
+            "language": "Python",
+            "last_commit": "2024-10-23T06:07:07Z",
+            "owner": "alexklwong",
+            "repo": "calibrated-backprojection-network",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Depth Completion From Sparse LiDAR Data With Depth-Normal Constraints",
+          "description": ", ICCV 2019 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 454949685,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-02-13T08:05:23Z",
+            "owner": "yuliangguo",
+            "repo": "OmniFusion",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DFuseNet: Deep Fusion of RGB and Sparse Depth Information for Image Guided Dense Depth Completion",
+          "description": ", ITSC 2019 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 157765572,
+            "language": "Python",
+            "last_commit": "2019-10-22T16:23:47Z",
+            "owner": "ShreyasSkandanS",
+            "repo": "DFuseNet",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LRRU: Long-short Range Recurrent Updating Networks for Depth Completion",
+          "description": ", ICCV 2023 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 679502955,
+            "language": "Python",
+            "last_commit": "2023-12-11T02:48:34Z",
+            "owner": "YufeiWang777",
+            "repo": "LRRU",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CostDCNet: Cost Volume based Depth Completion for a Single RGB-D Image",
+          "description": ", ECCV 2022 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 512782331,
+            "language": "Python",
+            "last_commit": "2023-03-04T05:03:38Z",
+            "owner": "kamse",
+            "repo": "CostDCNet",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep RGB-D canonical correlation analysis for sparse depth completion",
+          "description": ", NeurIPS 2019 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 207868978,
+            "language": "Python",
+            "last_commit": "2021-04-19T19:03:51Z",
+            "owner": "choyingw",
+            "repo": "CFCNet",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dynamic Spatial Propagation Network for Depth Completion",
+          "description": ", AAAI 2022 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 516222021,
+            "language": "Python",
+            "last_commit": "2023-10-29T02:51:04Z",
+            "owner": "Kyakaka",
+            "repo": "DySPN",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scene Completeness-Aware Lidar Depth Completion for Driving Scenario",
+          "description": ", ICASSP 2021 | github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 353875328,
+            "language": "Python",
+            "last_commit": "2022-06-14T19:44:15Z",
+            "owner": "choyingw",
+            "repo": "SCADC-DepthCompletion",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InSpaceType: Reconsider Space Type in Indoor Monocular Depth Estimation",
+          "description": ", BMVC 2023 | Data Page",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 652361423,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-12-07T06:54:48Z",
+            "owner": "DepthComputation",
+            "repo": "InSpaceType_Benchmark",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Toward practical monocular indoor depth estimation",
+          "description": ", CVPR 2022 | Data Page",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 652361423,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-12-07T06:54:48Z",
+            "owner": "DepthComputation",
+            "repo": "InSpaceType_Benchmark",
+            "stars": 17
           }
         }
       ],
@@ -344,8 +968,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:55:00.987Z",
+    "last_updated": "2026-08-19T12:09:48.431Z",
     "original_repository": "choyingw/Awesome-Monocular-Depth",
+    "original_repository_id": 703880377,
     "original_repository_sha": "6e09aa653e9bcf7c89da6de212979495aabdc158",
     "enhanced_repository": "enhansome/enhansome-Awesome-Monocular-Depth",
     "enhanced_repository_description": null,
