@@ -15,7 +15,7 @@
             "last_commit": "2024-07-17T10:46:05Z",
             "owner": "LiheYoung",
             "repo": "Depth-Anything",
-            "stars": 8177
+            "stars": 8182
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-04-21T12:13:43Z",
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5677
+            "stars": 5678
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2025-05-26T11:46:29Z",
             "owner": "Lavreniuk",
             "repo": "EVP",
-            "stars": 87
+            "stars": 88
           }
         },
         {
@@ -495,7 +495,7 @@
             "last_commit": "2024-07-17T10:46:05Z",
             "owner": "LiheYoung",
             "repo": "Depth-Anything",
-            "stars": 8177
+            "stars": 8182
           }
         },
         {
@@ -510,7 +510,7 @@
             "last_commit": "2025-04-21T12:13:43Z",
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5677
+            "stars": 5678
           }
         },
         {
@@ -540,7 +540,7 @@
             "last_commit": "2025-03-13T07:25:00Z",
             "owner": "YvanYin",
             "repo": "Metric3D",
-            "stars": 2297
+            "stars": 2299
           }
         },
         {
@@ -582,10 +582,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-16T18:45:46Z",
+            "last_commit": "2026-08-19T20:48:11Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38579
+            "stars": 38586
           }
         },
         {
@@ -810,7 +810,7 @@
             "last_commit": "2024-04-16T05:46:52Z",
             "owner": "youmi-zym",
             "repo": "CompletionFormer",
-            "stars": 282
+            "stars": 283
           }
         },
         {
@@ -968,7 +968,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T13:55:17.840Z",
+    "last_updated": "2026-08-20T13:56:56.490Z",
     "original_repository": "choyingw/Awesome-Monocular-Depth",
     "original_repository_id": 703880377,
     "original_repository_sha": "6e09aa653e9bcf7c89da6de212979495aabdc158",
