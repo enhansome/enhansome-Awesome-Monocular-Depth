@@ -15,7 +15,7 @@
             "last_commit": "2024-07-17T10:46:05Z",
             "owner": "LiheYoung",
             "repo": "Depth-Anything",
-            "stars": 8184
+            "stars": 8188
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-04-21T12:13:43Z",
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5678
+            "stars": 5676
           }
         },
         {
@@ -495,7 +495,7 @@
             "last_commit": "2024-07-17T10:46:05Z",
             "owner": "LiheYoung",
             "repo": "Depth-Anything",
-            "stars": 8184
+            "stars": 8188
           }
         },
         {
@@ -510,7 +510,7 @@
             "last_commit": "2025-04-21T12:13:43Z",
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5678
+            "stars": 5676
           }
         },
         {
@@ -582,10 +582,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-19T20:48:11Z",
+            "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38592
+            "stars": 38595
           }
         },
         {
@@ -968,7 +968,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T13:56:08.753Z",
+    "last_updated": "2026-08-22T13:42:24.318Z",
     "original_repository": "choyingw/Awesome-Monocular-Depth",
     "original_repository_id": 703880377,
     "original_repository_sha": "6e09aa653e9bcf7c89da6de212979495aabdc158",
