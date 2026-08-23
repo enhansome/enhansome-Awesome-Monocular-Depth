@@ -15,7 +15,7 @@
             "last_commit": "2024-07-17T10:46:05Z",
             "owner": "LiheYoung",
             "repo": "Depth-Anything",
-            "stars": 8188
+            "stars": 8189
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-12-10T09:56:30Z",
             "owner": "prs-eth",
             "repo": "Marigold",
-            "stars": 3195
+            "stars": 3196
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2025-05-18T21:52:52Z",
             "owner": "lpiccinelli-eth",
             "repo": "UniDepth",
-            "stars": 1244
+            "stars": 1245
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2024-07-31T09:09:26Z",
             "owner": "aliyun",
             "repo": "NeWCRFs",
-            "stars": 403
+            "stars": 402
           }
         },
         {
@@ -375,7 +375,7 @@
             "last_commit": "2023-12-11T13:32:11Z",
             "owner": "noahzn",
             "repo": "Lite-Mono",
-            "stars": 712
+            "stars": 711
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2025-03-03T20:30:11Z",
             "owner": "facebookresearch",
             "repo": "DistDepth",
-            "stars": 237
+            "stars": 236
           }
         },
         {
@@ -495,7 +495,7 @@
             "last_commit": "2024-07-17T10:46:05Z",
             "owner": "LiheYoung",
             "repo": "Depth-Anything",
-            "stars": 8188
+            "stars": 8189
           }
         },
         {
@@ -525,7 +525,7 @@
             "last_commit": "2025-05-05T18:18:49Z",
             "owner": "isl-org",
             "repo": "ZoeDepth",
-            "stars": 2841
+            "stars": 2840
           }
         },
         {
@@ -555,7 +555,7 @@
             "last_commit": "2025-05-18T21:52:52Z",
             "owner": "lpiccinelli-eth",
             "repo": "UniDepth",
-            "stars": 1244
+            "stars": 1245
           }
         },
         {
@@ -570,7 +570,7 @@
             "last_commit": "2025-03-03T20:30:11Z",
             "owner": "facebookresearch",
             "repo": "DistDepth",
-            "stars": 237
+            "stars": 236
           }
         },
         {
@@ -585,7 +585,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38595
+            "stars": 38606
           }
         },
         {
@@ -968,7 +968,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T13:42:24.318Z",
+    "last_updated": "2026-08-23T13:43:48.562Z",
     "original_repository": "choyingw/Awesome-Monocular-Depth",
     "original_repository_id": 703880377,
     "original_repository_sha": "6e09aa653e9bcf7c89da6de212979495aabdc158",
