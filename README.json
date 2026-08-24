@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "Indoor dataset with a focus on space type",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,7 +15,7 @@
             "last_commit": "2024-07-17T10:46:05Z",
             "owner": "LiheYoung",
             "repo": "Depth-Anything",
-            "stars": 8189
+            "stars": 8192
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-04-21T12:13:43Z",
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5676
+            "stars": 5677
           }
         },
         {
@@ -362,7 +362,13 @@
             "repo": "LocalBins",
             "stars": 26
           }
-        },
+        }
+      ],
+      "title": "High Performance"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "node_type": "item",
           "title": "Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation",
@@ -482,7 +488,13 @@
             "repo": "mono-consistent-depth",
             "stars": 14
           }
-        },
+        }
+      ],
+      "title": "Self-Supervised Depth Estimation"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "node_type": "item",
           "title": "Unleashing the Power of Large-Scale Unlabeled Data",
@@ -495,7 +507,7 @@
             "last_commit": "2024-07-17T10:46:05Z",
             "owner": "LiheYoung",
             "repo": "Depth-Anything",
-            "stars": 8189
+            "stars": 8192
           }
         },
         {
@@ -510,7 +522,7 @@
             "last_commit": "2025-04-21T12:13:43Z",
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5676
+            "stars": 5677
           }
         },
         {
@@ -540,7 +552,7 @@
             "last_commit": "2025-03-13T07:25:00Z",
             "owner": "YvanYin",
             "repo": "Metric3D",
-            "stars": 2300
+            "stars": 2301
           }
         },
         {
@@ -572,7 +584,13 @@
             "repo": "DistDepth",
             "stars": 236
           }
-        },
+        }
+      ],
+      "title": "Metric Depth from Single Image"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "node_type": "item",
           "title": "Learning single camera depth estimation using dual-pixels",
@@ -585,7 +603,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38606
+            "stars": 38611
           }
         },
         {
@@ -647,7 +665,13 @@
             "repo": "dual-pixel-defocus-disparity",
             "stars": 30
           }
-        },
+        }
+      ],
+      "title": "Depth from Dual-Pixel, optics, or photography"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "node_type": "item",
           "title": "SynWoodScape: Synthetic Surround-view Fisheye Camera Dataset for Autonomous Driving",
@@ -660,7 +684,7 @@
             "last_commit": "2023-08-26T16:16:46Z",
             "owner": "valeoai",
             "repo": "WoodScape",
-            "stars": 711
+            "stars": 712
           }
         },
         {
@@ -677,7 +701,13 @@
             "repo": "SlaBins",
             "stars": 103
           }
-        },
+        }
+      ],
+      "title": "Fisheye"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "node_type": "item",
           "title": "360MonoDepth: High-Resolution 360 ∘ Monocular Depth Estimation",
@@ -767,7 +797,13 @@
             "repo": "SphereDepth",
             "stars": 5
           }
-        },
+        }
+      ],
+      "title": "360 deg Depth"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "node_type": "item",
           "title": "PENet: Towards Precise and Efficient Image Guided Depth Completion",
@@ -932,7 +968,13 @@
             "repo": "SCADC-DepthCompletion",
             "stars": 19
           }
-        },
+        }
+      ],
+      "title": "Sparse Depth Completion"
+    },
+    {
+      "description": "Indoor dataset with a focus on space type",
+      "items": [
         {
           "node_type": "item",
           "title": "InSpaceType: Reconsider Space Type in Indoor Monocular Depth Estimation",
@@ -964,11 +1006,32 @@
           }
         }
       ],
-      "title": "Papers"
+      "title": "Indoor Datasets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SoccerNet-Depth: a Scalable Dataset for Monocular Depth Estimation in Sports Videos",
+          "description": ", CVPRW 2024 | Data Page",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 783664549,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-03-27T11:14:16Z",
+            "owner": "SoccerNet",
+            "repo": "sn-depth",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Other Domain Datasets"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:43:48.562Z",
+    "last_updated": "2026-08-24T14:13:56.680Z",
     "original_repository": "choyingw/Awesome-Monocular-Depth",
     "original_repository_id": 703880377,
     "original_repository_sha": "6e09aa653e9bcf7c89da6de212979495aabdc158",
