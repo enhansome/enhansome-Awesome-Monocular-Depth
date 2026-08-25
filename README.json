@@ -15,7 +15,7 @@
             "last_commit": "2024-07-17T10:46:05Z",
             "owner": "LiheYoung",
             "repo": "Depth-Anything",
-            "stars": 8192
+            "stars": 8193
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-04-21T12:13:43Z",
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5677
+            "stars": 5678
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-12-10T09:56:30Z",
             "owner": "prs-eth",
             "repo": "Marigold",
-            "stars": 3196
+            "stars": 3197
           }
         },
         {
@@ -507,7 +507,7 @@
             "last_commit": "2024-07-17T10:46:05Z",
             "owner": "LiheYoung",
             "repo": "Depth-Anything",
-            "stars": 8192
+            "stars": 8193
           }
         },
         {
@@ -522,7 +522,7 @@
             "last_commit": "2025-04-21T12:13:43Z",
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5677
+            "stars": 5678
           }
         },
         {
@@ -552,7 +552,7 @@
             "last_commit": "2025-03-13T07:25:00Z",
             "owner": "YvanYin",
             "repo": "Metric3D",
-            "stars": 2301
+            "stars": 2302
           }
         },
         {
@@ -603,7 +603,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38611
+            "stars": 38614
           }
         },
         {
@@ -1031,7 +1031,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:07:04.527Z",
+    "last_updated": "2026-08-25T06:23:16.429Z",
     "original_repository": "choyingw/Awesome-Monocular-Depth",
     "original_repository_id": 703880377,
     "original_repository_sha": "6e09aa653e9bcf7c89da6de212979495aabdc158",
