@@ -30,7 +30,7 @@
             "last_commit": "2025-04-21T12:13:43Z",
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5678
+            "stars": 5680
           }
         },
         {
@@ -522,7 +522,7 @@
             "last_commit": "2025-04-21T12:13:43Z",
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5678
+            "stars": 5680
           }
         },
         {
@@ -537,7 +537,7 @@
             "last_commit": "2025-05-05T18:18:49Z",
             "owner": "isl-org",
             "repo": "ZoeDepth",
-            "stars": 2840
+            "stars": 2839
           }
         },
         {
@@ -603,7 +603,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38614
+            "stars": 38617
           }
         },
         {
@@ -1031,7 +1031,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:23:16.429Z",
+    "last_updated": "2026-08-25T14:00:52.937Z",
     "original_repository": "choyingw/Awesome-Monocular-Depth",
     "original_repository_id": 703880377,
     "original_repository_sha": "6e09aa653e9bcf7c89da6de212979495aabdc158",
