@@ -1,6 +1,6 @@
 # Awesome Monocular Depth Estimation with stars
 
-A list of recent monocular depth estimation work, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,520 | 🐛 92 | 📅 2024-05-17.
+A list of recent monocular depth estimation work, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,521 | 🐛 92 | 📅 2024-05-17.
 
 The list is mainly focusing on recent work after 2020
 
@@ -98,7 +98,7 @@ The list is mainly focusing on recent work after 2020
 <details open>
 <summary>Depth from Dual-Pixel, optics, or photography</summary>
 
-* [Learning single camera depth estimation using dual-pixels](https://github.com/google-research/google-research/blob/master/dual_pixels/README.md) ⭐ 38,630 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-27, ICCV 2019 | [github](https://github.com/google-research/google-research/blob/master/dual_pixels/README.md) ⭐ 38,630 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-27
+* [Learning single camera depth estimation using dual-pixels](https://github.com/google-research/google-research/blob/master/dual_pixels/README.md) ⭐ 38,631 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-27, ICCV 2019 | [github](https://github.com/google-research/google-research/blob/master/dual_pixels/README.md) ⭐ 38,631 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-27
 * [Shakes on a Plane: Unsupervised Depth Estimation from Unstabilized Photography](https://github.com/princeton-computational-imaging/SoaP) ⭐ 57 | 🐛 0 | 🌐 Python | 📅 2025-02-18, CVPR 2023 | [github](https://github.com/princeton-computational-imaging/SoaP) ⭐ 57 | 🐛 0 | 🌐 Python | 📅 2025-02-18
 * [Fully Self-Supervised Depth Estimation from Defocus Clue](https://github.com/Ehzoahis/DEReD) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2023-06-03, CVPR 2023 | [github](https://github.com/Ehzoahis/DEReD) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2023-06-03
 * [Dual pixel exploration: Simultaneous depth estimation and image restoration](https://github.com/panpanfei/Dual-Pixel-Exploration-Simultaneous-Depth-Estimation-and-Image-Restoration) ⭐ 36 | 🐛 6 | 🌐 Python | 📅 2022-04-24, CVPR 2021 | [github](https://github.com/panpanfei/Dual-Pixel-Exploration-Simultaneous-Depth-Estimation-and-Image-Restoration) ⭐ 36 | 🐛 6 | 🌐 Python | 📅 2022-04-24
@@ -111,7 +111,7 @@ The list is mainly focusing on recent work after 2020
 <details open>
 <summary>Fisheye</summary>
 
-* [SynWoodScape: Synthetic Surround-view Fisheye Camera Dataset for Autonomous Driving](https://github.com/valeoai/WoodScape) ⭐ 712 | 🐛 74 | 🌐 Python | 📅 2023-08-26, RAL 2021 | [github](https://github.com/valeoai/WoodScape) ⭐ 712 | 🐛 74 | 🌐 Python | 📅 2023-08-26
+* [SynWoodScape: Synthetic Surround-view Fisheye Camera Dataset for Autonomous Driving](https://github.com/valeoai/WoodScape) ⭐ 713 | 🐛 74 | 🌐 Python | 📅 2023-08-26, RAL 2021 | [github](https://github.com/valeoai/WoodScape) ⭐ 713 | 🐛 74 | 🌐 Python | 📅 2023-08-26
 * [SlaBins: Fisheye Depth Estimation using Slanted Bins on Road Environments](https://syniez.github.io/SlaBins/), ICCV 2023 | [github](https://github.com/Syniez/SlaBins) ⭐ 103 | 🐛 0 | 🌐 Python | 📅 2024-09-30
 
 </details>
