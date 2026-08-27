@@ -15,7 +15,7 @@
             "last_commit": "2024-07-17T10:46:05Z",
             "owner": "LiheYoung",
             "repo": "Depth-Anything",
-            "stars": 8195
+            "stars": 8194
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-12-10T09:56:30Z",
             "owner": "prs-eth",
             "repo": "Marigold",
-            "stars": 3197
+            "stars": 3199
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2025-05-18T21:52:52Z",
             "owner": "lpiccinelli-eth",
             "repo": "UniDepth",
-            "stars": 1246
+            "stars": 1247
           }
         },
         {
@@ -507,7 +507,7 @@
             "last_commit": "2024-07-17T10:46:05Z",
             "owner": "LiheYoung",
             "repo": "Depth-Anything",
-            "stars": 8195
+            "stars": 8194
           }
         },
         {
@@ -552,7 +552,7 @@
             "last_commit": "2025-03-13T07:25:00Z",
             "owner": "YvanYin",
             "repo": "Metric3D",
-            "stars": 2302
+            "stars": 2303
           }
         },
         {
@@ -567,7 +567,7 @@
             "last_commit": "2025-05-18T21:52:52Z",
             "owner": "lpiccinelli-eth",
             "repo": "UniDepth",
-            "stars": 1246
+            "stars": 1247
           }
         },
         {
@@ -600,10 +600,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-25T18:30:01Z",
+            "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38624
+            "stars": 38630
           }
         },
         {
@@ -1031,9 +1031,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:01:38.988Z",
-    "original_repository": "choyingw/Awesome-Monocular-Depth",
-    "original_repository_id": 703880377,
+    "last_updated": "2026-08-27T11:28:02.663Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 703880377,
+      "language": null,
+      "last_commit": "2024-10-11T06:31:50Z",
+      "owner": "choyingw",
+      "repo": "Awesome-Monocular-Depth",
+      "stars": 212
+    },
     "original_repository_sha": "6e09aa653e9bcf7c89da6de212979495aabdc158",
     "enhanced_repository": "enhansome/enhansome-Awesome-Monocular-Depth",
     "enhanced_repository_description": null,
