@@ -15,8 +15,9 @@
             "last_commit": "2024-07-17T10:46:05Z",
             "owner": "LiheYoung",
             "repo": "Depth-Anything",
-            "stars": 8194
-          }
+            "stars": 8195
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2025-04-21T12:13:43Z",
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5683
-          }
+            "stars": 5684
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "prs-eth",
             "repo": "Marigold",
             "stars": 3199
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "lpiccinelli-eth",
             "repo": "UniDepth",
             "stars": 1247
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "wl-zhao",
             "repo": "VPD",
             "stars": 541
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "RaymondWang987",
             "repo": "NVDS",
             "stars": 528
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "RaymondWang987",
             "repo": "NVDS",
             "stars": 528
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "aliyun",
             "repo": "NeWCRFs",
             "stars": 402
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "SysCV",
             "repo": "idisc",
             "stars": 292
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "Aradhye2002",
             "repo": "EcoDepth",
             "stars": 220
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "JiYuanFeng",
             "repo": "DDP",
             "stars": 213
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "SwinTransformer",
             "repo": "MIM-Depth-Estimation",
             "stars": 175
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "md4all",
             "repo": "md4all",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "cnexah",
             "repo": "VA-DepthNet",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "SwinTransformer",
             "repo": "AiT",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "ashutosh1807",
             "repo": "PixelFormer",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "ShuweiShao",
             "repo": "IEBins",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "Lavreniuk",
             "repo": "EVP",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "fudan-zvg",
             "repo": "meta-prompts",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "fudan-zvg",
             "repo": "meta-prompts",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "needylove",
             "repo": "OrdinalEntropy",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "Adonis-galaxy",
             "repo": "WorDepth",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "damaggu",
             "repo": "TADP",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -361,7 +384,8 @@
             "owner": "shariqfarooq123",
             "repo": "LocalBins",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         }
       ],
       "title": "High Performance"
@@ -381,8 +405,9 @@
             "last_commit": "2023-12-11T13:32:11Z",
             "owner": "noahzn",
             "repo": "Lite-Mono",
-            "stars": 712
-          }
+            "stars": 713
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "facebookresearch",
             "repo": "DistDepth",
             "stars": 236
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "zxcqlf",
             "repo": "MonoViT",
             "stars": 183
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "hisfog",
             "repo": "SfMNeXt-Impl",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "hmhemu",
             "repo": "RA-Depth",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "kaichen-z",
             "repo": "DevNet",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "madhubabuv",
             "repo": "dtd",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "HoangChuongNguyen",
             "repo": "mono-consistent-depth",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         }
       ],
       "title": "Self-Supervised Depth Estimation"
@@ -507,8 +539,9 @@
             "last_commit": "2024-07-17T10:46:05Z",
             "owner": "LiheYoung",
             "repo": "Depth-Anything",
-            "stars": 8194
-          }
+            "stars": 8195
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -522,8 +555,9 @@
             "last_commit": "2025-04-21T12:13:43Z",
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5683
-          }
+            "stars": 5684
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -538,7 +572,8 @@
             "owner": "isl-org",
             "repo": "ZoeDepth",
             "stars": 2839
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -553,7 +588,8 @@
             "owner": "YvanYin",
             "repo": "Metric3D",
             "stars": 2303
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -568,7 +604,8 @@
             "owner": "lpiccinelli-eth",
             "repo": "UniDepth",
             "stars": 1247
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -583,7 +620,8 @@
             "owner": "facebookresearch",
             "repo": "DistDepth",
             "stars": 236
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         }
       ],
       "title": "Metric Depth from Single Image"
@@ -603,8 +641,9 @@
             "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38631
-          }
+            "stars": 38642
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -619,7 +658,8 @@
             "owner": "princeton-computational-imaging",
             "repo": "SoaP",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -634,7 +674,8 @@
             "owner": "Ehzoahis",
             "repo": "DEReD",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -649,7 +690,8 @@
             "owner": "panpanfei",
             "repo": "Dual-Pixel-Exploration-Simultaneous-Depth-Estimation-and-Image-Restoration",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -664,7 +706,8 @@
             "owner": "abhijithpunnappurath",
             "repo": "dual-pixel-defocus-disparity",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         }
       ],
       "title": "Depth from Dual-Pixel, optics, or photography"
@@ -685,7 +728,8 @@
             "owner": "valeoai",
             "repo": "WoodScape",
             "stars": 713
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -700,7 +744,8 @@
             "owner": "Syniez",
             "repo": "SlaBins",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         }
       ],
       "title": "Fisheye"
@@ -721,7 +766,8 @@
             "owner": "manurare",
             "repo": "360monodepth",
             "stars": 207
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -736,7 +782,8 @@
             "owner": "zhijieshen-bjtu",
             "repo": "PanoFormer",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -751,7 +798,8 @@
             "owner": "yuliangguo",
             "repo": "OmniFusion",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -766,7 +814,8 @@
             "owner": "Sbrunoberenguel",
             "repo": "FreDSNet",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -781,7 +830,8 @@
             "owner": "yuniw18",
             "repo": "EGformer",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -796,7 +846,8 @@
             "owner": "yanqswhu",
             "repo": "SphereDepth",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         }
       ],
       "title": "360 deg Depth"
@@ -817,7 +868,8 @@
             "owner": "JUGGHM",
             "repo": "PENet_ICRA2021",
             "stars": 361
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -832,7 +884,8 @@
             "owner": "zzangjinsun",
             "repo": "NLSPN_ECCV20",
             "stars": 344
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -847,7 +900,8 @@
             "owner": "youmi-zym",
             "repo": "CompletionFormer",
             "stars": 282
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -862,7 +916,8 @@
             "owner": "alexklwong",
             "repo": "calibrated-backprojection-network",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -877,7 +932,8 @@
             "owner": "yuliangguo",
             "repo": "OmniFusion",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -892,7 +948,8 @@
             "owner": "ShreyasSkandanS",
             "repo": "DFuseNet",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -907,7 +964,8 @@
             "owner": "YufeiWang777",
             "repo": "LRRU",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -922,7 +980,8 @@
             "owner": "kamse",
             "repo": "CostDCNet",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -937,7 +996,8 @@
             "owner": "choyingw",
             "repo": "CFCNet",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -952,7 +1012,8 @@
             "owner": "Kyakaka",
             "repo": "DySPN",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -967,7 +1028,8 @@
             "owner": "choyingw",
             "repo": "SCADC-DepthCompletion",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         }
       ],
       "title": "Sparse Depth Completion"
@@ -988,7 +1050,8 @@
             "owner": "DepthComputation",
             "repo": "InSpaceType_Benchmark",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         },
         {
           "node_type": "item",
@@ -1003,7 +1066,8 @@
             "owner": "DepthComputation",
             "repo": "InSpaceType_Benchmark",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         }
       ],
       "title": "Indoor Datasets"
@@ -1024,14 +1088,15 @@
             "owner": "SoccerNet",
             "repo": "sn-depth",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T23:00:43.180Z"
         }
       ],
       "title": "Other Domain Datasets"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:56:39.647Z",
+    "last_updated": "2026-08-28T23:00:43.180Z",
     "original_repository_info": {
       "archived": false,
       "id": 703880377,
