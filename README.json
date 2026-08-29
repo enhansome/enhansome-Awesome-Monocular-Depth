@@ -45,7 +45,7 @@
             "open_issues": 79,
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5684,
+            "stars": 5685,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -774,7 +774,7 @@
             "open_issues": 79,
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5684,
+            "stars": 5685,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -910,7 +910,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38643,
+            "stars": 38649,
             "topics": [
               "ai",
               "machine-learning",
@@ -1108,7 +1108,7 @@
             "open_issues": 7,
             "owner": "zhijieshen-bjtu",
             "repo": "PanoFormer",
-            "stars": 138,
+            "stars": 139,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -1271,7 +1271,7 @@
             "open_issues": 12,
             "owner": "youmi-zym",
             "repo": "CompletionFormer",
-            "stars": 282,
+            "stars": 281,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -1594,7 +1594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:52:29.135Z",
+    "last_updated": "2026-08-29T17:06:02.777Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent monocular depth estimation papers",
