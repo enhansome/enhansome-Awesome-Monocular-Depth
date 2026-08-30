@@ -19,7 +19,7 @@
             "open_issues": 136,
             "owner": "LiheYoung",
             "repo": "Depth-Anything",
-            "stars": 8195,
+            "stars": 8196,
             "topics": [
               "depth-estimation",
               "image-synthesis",
@@ -45,7 +45,7 @@
             "open_issues": 79,
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5685,
+            "stars": 5689,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -66,7 +66,7 @@
             "open_issues": 9,
             "owner": "prs-eth",
             "repo": "Marigold",
-            "stars": 3199,
+            "stars": 3201,
             "topics": [
               "depth-estimation",
               "diffusion",
@@ -278,7 +278,7 @@
             "open_issues": 6,
             "owner": "SwinTransformer",
             "repo": "MIM-Depth-Estimation",
-            "stars": 175,
+            "stars": 176,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -748,7 +748,7 @@
             "open_issues": 136,
             "owner": "LiheYoung",
             "repo": "Depth-Anything",
-            "stars": 8195,
+            "stars": 8196,
             "topics": [
               "depth-estimation",
               "image-synthesis",
@@ -774,7 +774,7 @@
             "open_issues": 79,
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5685,
+            "stars": 5689,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -910,7 +910,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38649,
+            "stars": 38655,
             "topics": [
               "ai",
               "machine-learning",
@@ -1033,7 +1033,7 @@
             "open_issues": 74,
             "owner": "valeoai",
             "repo": "WoodScape",
-            "stars": 713,
+            "stars": 714,
             "topics": [
               "dataset"
             ]
@@ -1594,7 +1594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:06:02.777Z",
+    "last_updated": "2026-08-30T17:25:59.065Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent monocular depth estimation papers",
@@ -1606,7 +1606,7 @@
       "open_issues": 2,
       "owner": "choyingw",
       "repo": "Awesome-Monocular-Depth",
-      "stars": 212,
+      "stars": 211,
       "topics": [
         "3d",
         "awesome-list",
