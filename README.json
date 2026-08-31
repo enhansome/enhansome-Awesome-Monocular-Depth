@@ -45,7 +45,7 @@
             "open_issues": 79,
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5689,
+            "stars": 5692,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -93,7 +93,7 @@
             "open_issues": 86,
             "owner": "lpiccinelli-eth",
             "repo": "UniDepth",
-            "stars": 1247,
+            "stars": 1249,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -774,7 +774,7 @@
             "open_issues": 79,
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5689,
+            "stars": 5692,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -826,7 +826,7 @@
             "open_issues": 85,
             "owner": "YvanYin",
             "repo": "Metric3D",
-            "stars": 2303,
+            "stars": 2305,
             "topics": [
               "3d-reconstruction",
               "3d-scenes",
@@ -858,7 +858,7 @@
             "open_issues": 86,
             "owner": "lpiccinelli-eth",
             "repo": "UniDepth",
-            "stars": 1247,
+            "stars": 1249,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -906,11 +906,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T09:11:14Z",
+            "last_commit": "2026-08-31T14:53:17Z",
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38655,
+            "stars": 38660,
             "topics": [
               "ai",
               "machine-learning",
@@ -1250,7 +1250,7 @@
             "open_issues": 1,
             "owner": "zzangjinsun",
             "repo": "NLSPN_ECCV20",
-            "stars": 344,
+            "stars": 345,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -1594,7 +1594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T17:25:59.065Z",
+    "last_updated": "2026-08-31T19:29:33.718Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent monocular depth estimation papers",
