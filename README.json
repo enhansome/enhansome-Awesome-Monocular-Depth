@@ -19,7 +19,7 @@
             "open_issues": 136,
             "owner": "LiheYoung",
             "repo": "Depth-Anything",
-            "stars": 8196,
+            "stars": 8199,
             "topics": [
               "depth-estimation",
               "image-synthesis",
@@ -45,7 +45,7 @@
             "open_issues": 79,
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5692,
+            "stars": 5693,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -748,7 +748,7 @@
             "open_issues": 136,
             "owner": "LiheYoung",
             "repo": "Depth-Anything",
-            "stars": 8196,
+            "stars": 8199,
             "topics": [
               "depth-estimation",
               "image-synthesis",
@@ -774,7 +774,7 @@
             "open_issues": 79,
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5692,
+            "stars": 5693,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -795,7 +795,7 @@
             "open_issues": 99,
             "owner": "isl-org",
             "repo": "ZoeDepth",
-            "stars": 2839,
+            "stars": 2840,
             "topics": [
               "adaptive-bins",
               "deep-learning",
@@ -826,7 +826,7 @@
             "open_issues": 85,
             "owner": "YvanYin",
             "repo": "Metric3D",
-            "stars": 2305,
+            "stars": 2307,
             "topics": [
               "3d-reconstruction",
               "3d-scenes",
@@ -910,7 +910,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38660,
+            "stars": 38668,
             "topics": [
               "ai",
               "machine-learning",
@@ -1033,7 +1033,7 @@
             "open_issues": 74,
             "owner": "valeoai",
             "repo": "WoodScape",
-            "stars": 714,
+            "stars": 715,
             "topics": [
               "dataset"
             ]
@@ -1250,7 +1250,7 @@
             "open_issues": 1,
             "owner": "zzangjinsun",
             "repo": "NLSPN_ECCV20",
-            "stars": 345,
+            "stars": 346,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -1292,7 +1292,7 @@
             "open_issues": 3,
             "owner": "alexklwong",
             "repo": "calibrated-backprojection-network",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "3d-reconstruction",
               "3d-vision",
@@ -1594,7 +1594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T19:29:33.718Z",
+    "last_updated": "2026-09-01T17:18:45.384Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent monocular depth estimation papers",
@@ -1606,7 +1606,7 @@
       "open_issues": 2,
       "owner": "choyingw",
       "repo": "Awesome-Monocular-Depth",
-      "stars": 211,
+      "stars": 210,
       "topics": [
         "3d",
         "awesome-list",

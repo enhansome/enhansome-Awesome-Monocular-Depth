@@ -1,6 +1,6 @@
 # Awesome Monocular Depth Estimation with stars
 
-A list of recent monocular depth estimation work, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,527 | 🐛 92 | 📅 2024-05-17.
+A list of recent monocular depth estimation work, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,533 | 🐛 92 | 📅 2024-05-17.
 
 The list is mainly focusing on recent work after 2020
 
@@ -11,8 +11,8 @@ The list is mainly focusing on recent work after 2020
 <details open>
 <summary>High Performance </summary>
 
-* [Unleashing the Power of Large-Scale Unlabeled Data](https://depth-anything.github.io/), CVPR 2024  | [github](https://github.com/LiheYoung/Depth-Anything) ⭐ 8,196 | 🐛 136 | 🌐 Python | 📅 2024-07-17 [huggingface](https://huggingface.co/spaces/LiheYoung/Depth-Anything)
-* [Depth Pro: Sharp Monocular Metric Depth in Less Than a Second](https://arxiv.org/abs/2410.02073/) (precise focal length estimation with metric depth), arXiv 2024 | [github](https://github.com/apple/ml-depth-pro/) ⭐ 5,692 | 🐛 79 | 🌐 Python | 📅 2025-04-21
+* [Unleashing the Power of Large-Scale Unlabeled Data](https://depth-anything.github.io/), CVPR 2024  | [github](https://github.com/LiheYoung/Depth-Anything) ⭐ 8,199 | 🐛 136 | 🌐 Python | 📅 2024-07-17 [huggingface](https://huggingface.co/spaces/LiheYoung/Depth-Anything)
+* [Depth Pro: Sharp Monocular Metric Depth in Less Than a Second](https://arxiv.org/abs/2410.02073/) (precise focal length estimation with metric depth), arXiv 2024 | [github](https://github.com/apple/ml-depth-pro/) ⭐ 5,693 | 🐛 79 | 🌐 Python | 📅 2025-04-21
 * [Marigold: Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation](https://github.com/prs-eth/marigold) ⭐ 3,201 | 🐛 9 | 🌐 Python | 📅 2025-12-10 (diffusion), CVPR 2024  | [github](https://github.com/prs-eth/marigold) ⭐ 3,201 | 🐛 9 | 🌐 Python | 📅 2025-12-10
 * [UniDepth: Universal Monocular Metric Depth Estimation](https://github.com/lpiccinelli-eth/unidepth) ⭐ 1,249 | 🐛 86 | 🌐 Python | 📅 2025-05-18, (universal metric depth estimation; one's zero-shot performance match depth-anything on NYUv2), CVPR 2024  | [github](https://github.com/lpiccinelli-eth/unidepth) ⭐ 1,249 | 🐛 86 | 🌐 Python | 📅 2025-05-18
 * [Unleashing Text-to-Image Diffusion Models for Visual Perception](https://vpd.ivg-research.xyz/) (Diffusion), ICCV 2023 | [github](https://github.com/wl-zhao/VPD) ⭐ 541 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2023-12-21
@@ -75,10 +75,10 @@ The list is mainly focusing on recent work after 2020
 <details open>
 <summary>Metric Depth from Single Image</summary>
 
-* [Unleashing the Power of Large-Scale Unlabeled Data](https://depth-anything.github.io/), CVPR 2024  | [github](https://github.com/LiheYoung/Depth-Anything) ⭐ 8,196 | 🐛 136 | 🌐 Python | 📅 2024-07-17 [huggingface](https://huggingface.co/spaces/LiheYoung/Depth-Anything)
-* [Depth Pro: Sharp Monocular Metric Depth in Less Than a Second](https://arxiv.org/abs/2410.02073/) (precise focal length estimation with metric depth), arXiv 2024 | [github](https://github.com/apple/ml-depth-pro/) ⭐ 5,692 | 🐛 79 | 🌐 Python | 📅 2025-04-21
+* [Unleashing the Power of Large-Scale Unlabeled Data](https://depth-anything.github.io/), CVPR 2024  | [github](https://github.com/LiheYoung/Depth-Anything) ⭐ 8,199 | 🐛 136 | 🌐 Python | 📅 2024-07-17 [huggingface](https://huggingface.co/spaces/LiheYoung/Depth-Anything)
+* [Depth Pro: Sharp Monocular Metric Depth in Less Than a Second](https://arxiv.org/abs/2410.02073/) (precise focal length estimation with metric depth), arXiv 2024 | [github](https://github.com/apple/ml-depth-pro/) ⭐ 5,693 | 🐛 79 | 🌐 Python | 📅 2025-04-21
 * [ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth](https://github.com/isl-org/ZoeDepth) ⚠️ Archived, arXiv 2023 | [github](https://github.com/isl-org/ZoeDepth) ⚠️ Archived
-* [Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image](https://github.com/YvanYin/Metric3D) ⭐ 2,305 | 🐛 85 | 🌐 Python | 📅 2025-03-13, ICCV 2023 | [github](https://github.com/YvanYin/Metric3D) ⭐ 2,305 | 🐛 85 | 🌐 Python | 📅 2025-03-13
+* [Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image](https://github.com/YvanYin/Metric3D) ⭐ 2,307 | 🐛 85 | 🌐 Python | 📅 2025-03-13, ICCV 2023 | [github](https://github.com/YvanYin/Metric3D) ⭐ 2,307 | 🐛 85 | 🌐 Python | 📅 2025-03-13
 * [UniDepth: Universal Monocular Metric Depth Estimation](https://github.com/lpiccinelli-eth/unidepth) ⭐ 1,249 | 🐛 86 | 🌐 Python | 📅 2025-05-18, (universal metric depth estimation; one's zero-shot performance match depth-anything on NYUv2), CVPR 2024  | [github](https://github.com/lpiccinelli-eth/unidepth) ⭐ 1,249 | 🐛 86 | 🌐 Python | 📅 2025-05-18
 * [Toward Practical Monocular Indoor Depth Estimation](https://distdepth.github.io/), CVPR 2022 | [github](https://github.com/facebookresearch/DistDepth) ⭐ 236 | 🐛 18 | 🌐 Python | 📅 2025-03-03
 * [Metric3D v2 A Versatile Monocular Geometric Foundation Model for Zero-shot Metric Depth and Surface Normal Estimation](https://jugghm.github.io/Metric3Dv2/) (high-performing metric depth on zero-shot evaluation), arxiv 2024  | [github](https://jugghm.github.io/Metric3Dv2/)
@@ -98,7 +98,7 @@ The list is mainly focusing on recent work after 2020
 <details open>
 <summary>Depth from Dual-Pixel, optics, or photography</summary>
 
-* [Learning single camera depth estimation using dual-pixels](https://github.com/google-research/google-research/blob/master/dual_pixels/README.md) ⭐ 38,660 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-31, ICCV 2019 | [github](https://github.com/google-research/google-research/blob/master/dual_pixels/README.md) ⭐ 38,660 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-31
+* [Learning single camera depth estimation using dual-pixels](https://github.com/google-research/google-research/blob/master/dual_pixels/README.md) ⭐ 38,668 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-31, ICCV 2019 | [github](https://github.com/google-research/google-research/blob/master/dual_pixels/README.md) ⭐ 38,668 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-31
 * [Shakes on a Plane: Unsupervised Depth Estimation from Unstabilized Photography](https://github.com/princeton-computational-imaging/SoaP) ⭐ 57 | 🐛 0 | 🌐 Python | 📅 2025-02-18, CVPR 2023 | [github](https://github.com/princeton-computational-imaging/SoaP) ⭐ 57 | 🐛 0 | 🌐 Python | 📅 2025-02-18
 * [Fully Self-Supervised Depth Estimation from Defocus Clue](https://github.com/Ehzoahis/DEReD) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2023-06-03, CVPR 2023 | [github](https://github.com/Ehzoahis/DEReD) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2023-06-03
 * [Dual pixel exploration: Simultaneous depth estimation and image restoration](https://github.com/panpanfei/Dual-Pixel-Exploration-Simultaneous-Depth-Estimation-and-Image-Restoration) ⭐ 36 | 🐛 6 | 🌐 Python | 📅 2022-04-24, CVPR 2021 | [github](https://github.com/panpanfei/Dual-Pixel-Exploration-Simultaneous-Depth-Estimation-and-Image-Restoration) ⭐ 36 | 🐛 6 | 🌐 Python | 📅 2022-04-24
@@ -111,7 +111,7 @@ The list is mainly focusing on recent work after 2020
 <details open>
 <summary>Fisheye</summary>
 
-* [SynWoodScape: Synthetic Surround-view Fisheye Camera Dataset for Autonomous Driving](https://github.com/valeoai/WoodScape) ⭐ 714 | 🐛 74 | 🌐 Python | 📅 2023-08-26, RAL 2021 | [github](https://github.com/valeoai/WoodScape) ⭐ 714 | 🐛 74 | 🌐 Python | 📅 2023-08-26
+* [SynWoodScape: Synthetic Surround-view Fisheye Camera Dataset for Autonomous Driving](https://github.com/valeoai/WoodScape) ⭐ 715 | 🐛 74 | 🌐 Python | 📅 2023-08-26, RAL 2021 | [github](https://github.com/valeoai/WoodScape) ⭐ 715 | 🐛 74 | 🌐 Python | 📅 2023-08-26
 * [SlaBins: Fisheye Depth Estimation using Slanted Bins on Road Environments](https://syniez.github.io/SlaBins/), ICCV 2023 | [github](https://github.com/Syniez/SlaBins) ⭐ 103 | 🐛 0 | 🌐 Python | 📅 2024-09-30
 
 </details>
@@ -134,9 +134,9 @@ The list is mainly focusing on recent work after 2020
 <summary>Sparse Depth Completion</summary>
 
 * [PENet: Towards Precise and Efficient Image Guided Depth Completion](https://arxiv.org/abs/2103.00783), ICRA 2021 | [github](https://github.com/JUGGHM/PENet_ICRA2021) ⭐ 361 | 🐛 38 | 🌐 Python | 📅 2021-05-16
-* [Non-Local Spatial Propagation Network for Depth Completion](https://arxiv.org/pdf/2007.10042.pdf), ECCV 2020 | [github](https://github.com/zzangjinsun/NLSPN_ECCV20) ⭐ 345 | 🐛 1 | 🌐 Python | 📅 2021-01-25
+* [Non-Local Spatial Propagation Network for Depth Completion](https://arxiv.org/pdf/2007.10042.pdf), ECCV 2020 | [github](https://github.com/zzangjinsun/NLSPN_ECCV20) ⭐ 346 | 🐛 1 | 🌐 Python | 📅 2021-01-25
 * [CompletionFormer: Depth Completion with Convolutions and Vision Transformers](https://arxiv.org/pdf/2304.13030.pdf), CVPR 2023 | [github](https://github.com/youmi-zym/CompletionFormer) ⭐ 281 | 🐛 12 | 🌐 Python | 📅 2024-04-16
-* [Monitored Distillation for Positive Congruent Depth Completion](https://arxiv.org/pdf/2203.16034.pdf), ECCV 2022 | [github](https://github.com/alexklwong/calibrated-backprojection-network) ⭐ 126 | 🐛 3 | 🌐 Python | 📅 2024-10-23
+* [Monitored Distillation for Positive Congruent Depth Completion](https://arxiv.org/pdf/2203.16034.pdf), ECCV 2022 | [github](https://github.com/alexklwong/calibrated-backprojection-network) ⭐ 127 | 🐛 3 | 🌐 Python | 📅 2024-10-23
 * [Depth Completion From Sparse LiDAR Data With Depth-Normal Constraints](https://arxiv.org/abs/1910.06727), ICCV 2019 | [github](https://github.com/yuyanli0831/OmniFusion) ⭐ 107 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2023-02-13
 * [DFuseNet: Deep Fusion of RGB and Sparse Depth Information for Image Guided Dense Depth Completion](https://arxiv.org/pdf/1902.00761), ITSC 2019 | [github](https://github.com/ShreyasSkandanS/DFuseNet) ⭐ 98 | 🐛 6 | 🌐 Python | 📅 2019-10-22
 * [LRRU: Long-short Range Recurrent Updating Networks for Depth Completion](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_LRRU_Long-short_Range_Recurrent_Updating_Networks_for_Depth_Completion_ICCV_2023_paper.pdf), ICCV 2023 | [github](https://github.com/YufeiWang777/LRRU) ⭐ 94 | 🐛 12 | 🌐 Python | 📅 2023-12-11
@@ -167,4 +167,4 @@ Indoor dataset with a focus on space type
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
