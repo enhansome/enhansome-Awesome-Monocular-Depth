@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-07-17T10:46:05Z",
-            "open_issues": 136,
+            "open_issues": 135,
             "owner": "LiheYoung",
             "repo": "Depth-Anything",
-            "stars": 8199,
+            "stars": 8202,
             "topics": [
               "depth-estimation",
               "image-synthesis",
@@ -45,7 +45,7 @@
             "open_issues": 79,
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5693,
+            "stars": 5692,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -66,7 +66,7 @@
             "open_issues": 9,
             "owner": "prs-eth",
             "repo": "Marigold",
-            "stars": 3201,
+            "stars": 3202,
             "topics": [
               "depth-estimation",
               "diffusion",
@@ -745,10 +745,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-07-17T10:46:05Z",
-            "open_issues": 136,
+            "open_issues": 135,
             "owner": "LiheYoung",
             "repo": "Depth-Anything",
-            "stars": 8199,
+            "stars": 8202,
             "topics": [
               "depth-estimation",
               "image-synthesis",
@@ -774,7 +774,7 @@
             "open_issues": 79,
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5693,
+            "stars": 5692,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -910,7 +910,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38668,
+            "stars": 38678,
             "topics": [
               "ai",
               "machine-learning",
@@ -1594,7 +1594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T17:18:45.384Z",
+    "last_updated": "2026-09-02T17:07:56.703Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent monocular depth estimation papers",
