@@ -19,7 +19,7 @@
             "open_issues": 136,
             "owner": "LiheYoung",
             "repo": "Depth-Anything",
-            "stars": 8201,
+            "stars": 8202,
             "topics": [
               "depth-estimation",
               "image-synthesis",
@@ -45,7 +45,7 @@
             "open_issues": 79,
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5696,
+            "stars": 5698,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -748,7 +748,7 @@
             "open_issues": 136,
             "owner": "LiheYoung",
             "repo": "Depth-Anything",
-            "stars": 8201,
+            "stars": 8202,
             "topics": [
               "depth-estimation",
               "image-synthesis",
@@ -774,7 +774,7 @@
             "open_issues": 79,
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5696,
+            "stars": 5698,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -826,7 +826,7 @@
             "open_issues": 85,
             "owner": "YvanYin",
             "repo": "Metric3D",
-            "stars": 2307,
+            "stars": 2309,
             "topics": [
               "3d-reconstruction",
               "3d-scenes",
@@ -910,7 +910,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38688,
+            "stars": 38689,
             "topics": [
               "ai",
               "machine-learning",
@@ -1083,7 +1083,7 @@
             "open_issues": 6,
             "owner": "manurare",
             "repo": "360monodepth",
-            "stars": 207,
+            "stars": 208,
             "topics": [
               "360-monocular-depth-estimation",
               "3d-reconstruction",
@@ -1594,7 +1594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T17:01:38.804Z",
+    "last_updated": "2026-09-04T16:50:28.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent monocular depth estimation papers",
