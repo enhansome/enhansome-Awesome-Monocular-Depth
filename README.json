@@ -19,7 +19,7 @@
             "open_issues": 136,
             "owner": "LiheYoung",
             "repo": "Depth-Anything",
-            "stars": 8202,
+            "stars": 8201,
             "topics": [
               "depth-estimation",
               "image-synthesis",
@@ -45,7 +45,7 @@
             "open_issues": 79,
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5698,
+            "stars": 5699,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -118,7 +118,7 @@
             "open_issues": 32,
             "owner": "wl-zhao",
             "repo": "VPD",
-            "stars": 541,
+            "stars": 540,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -748,7 +748,7 @@
             "open_issues": 136,
             "owner": "LiheYoung",
             "repo": "Depth-Anything",
-            "stars": 8202,
+            "stars": 8201,
             "topics": [
               "depth-estimation",
               "image-synthesis",
@@ -774,7 +774,7 @@
             "open_issues": 79,
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5698,
+            "stars": 5699,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -826,7 +826,7 @@
             "open_issues": 85,
             "owner": "YvanYin",
             "repo": "Metric3D",
-            "stars": 2309,
+            "stars": 2310,
             "topics": [
               "3d-reconstruction",
               "3d-scenes",
@@ -910,7 +910,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38689,
+            "stars": 38693,
             "topics": [
               "ai",
               "machine-learning",
@@ -1594,7 +1594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T16:50:28.744Z",
+    "last_updated": "2026-09-05T16:02:08.475Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent monocular depth estimation papers",
