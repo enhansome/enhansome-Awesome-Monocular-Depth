@@ -45,7 +45,7 @@
             "open_issues": 79,
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5699,
+            "stars": 5701,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -62,11 +62,11 @@
             "id": 724328776,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2025-12-10T09:56:30Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-06T00:03:20Z",
+            "open_issues": 7,
             "owner": "prs-eth",
             "repo": "Marigold",
-            "stars": 3203,
+            "stars": 3204,
             "topics": [
               "depth-estimation",
               "diffusion",
@@ -774,7 +774,7 @@
             "open_issues": 79,
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5699,
+            "stars": 5701,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -907,10 +907,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-09-03T08:28:07Z",
-            "open_issues": 1989,
+            "open_issues": 1990,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38693,
+            "stars": 38694,
             "topics": [
               "ai",
               "machine-learning",
@@ -1594,7 +1594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T16:02:08.475Z",
+    "last_updated": "2026-09-06T16:13:15.787Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent monocular depth estimation papers",
