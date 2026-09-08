@@ -45,7 +45,7 @@
             "open_issues": 79,
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5706,
+            "stars": 5707,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -93,7 +93,7 @@
             "open_issues": 86,
             "owner": "lpiccinelli-eth",
             "repo": "UniDepth",
-            "stars": 1251,
+            "stars": 1252,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -181,7 +181,7 @@
             "open_issues": 10,
             "owner": "aliyun",
             "repo": "NeWCRFs",
-            "stars": 402,
+            "stars": 403,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -774,7 +774,7 @@
             "open_issues": 79,
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5706,
+            "stars": 5707,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -858,7 +858,7 @@
             "open_issues": 86,
             "owner": "lpiccinelli-eth",
             "repo": "UniDepth",
-            "stars": 1251,
+            "stars": 1252,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -906,11 +906,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T16:12:34Z",
+            "last_commit": "2026-09-08T09:22:17Z",
             "open_issues": 1990,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38707,
+            "stars": 38712,
             "topics": [
               "ai",
               "machine-learning",
@@ -1594,7 +1594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:14:28.784Z",
+    "last_updated": "2026-09-08T17:14:06.926Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent monocular depth estimation papers",
