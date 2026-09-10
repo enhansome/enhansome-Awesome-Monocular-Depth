@@ -45,7 +45,7 @@
             "open_issues": 79,
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5707,
+            "stars": 5709,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -66,7 +66,7 @@
             "open_issues": 7,
             "owner": "prs-eth",
             "repo": "Marigold",
-            "stars": 3206,
+            "stars": 3208,
             "topics": [
               "depth-estimation",
               "diffusion",
@@ -93,7 +93,7 @@
             "open_issues": 86,
             "owner": "lpiccinelli-eth",
             "repo": "UniDepth",
-            "stars": 1253,
+            "stars": 1254,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -774,7 +774,7 @@
             "open_issues": 79,
             "owner": "apple",
             "repo": "ml-depth-pro",
-            "stars": 5707,
+            "stars": 5709,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -826,7 +826,7 @@
             "open_issues": 85,
             "owner": "YvanYin",
             "repo": "Metric3D",
-            "stars": 2312,
+            "stars": 2314,
             "topics": [
               "3d-reconstruction",
               "3d-scenes",
@@ -858,7 +858,7 @@
             "open_issues": 86,
             "owner": "lpiccinelli-eth",
             "repo": "UniDepth",
-            "stars": 1253,
+            "stars": 1254,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -906,11 +906,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T16:18:29Z",
-            "open_issues": 1990,
+            "last_commit": "2026-09-10T00:21:25Z",
+            "open_issues": 1992,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38718,
+            "stars": 38723,
             "topics": [
               "ai",
               "machine-learning",
@@ -1594,7 +1594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T17:08:40.347Z",
+    "last_updated": "2026-09-10T16:58:37.076Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent monocular depth estimation papers",
