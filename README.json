@@ -19,7 +19,7 @@
             "open_issues": 137,
             "owner": "LiheYoung",
             "repo": "Depth-Anything",
-            "stars": 8208,
+            "stars": 8210,
             "topics": [
               "depth-estimation",
               "image-synthesis",
@@ -45,7 +45,7 @@
             "open_issues": 79,
             "owner": "apple-aiml-research",
             "repo": "ml-depth-pro",
-            "stars": 5715,
+            "stars": 5717,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -66,7 +66,7 @@
             "open_issues": 8,
             "owner": "prs-eth",
             "repo": "Marigold",
-            "stars": 3227,
+            "stars": 3228,
             "topics": [
               "depth-estimation",
               "diffusion",
@@ -614,7 +614,7 @@
             "open_issues": 16,
             "owner": "zxcqlf",
             "repo": "MonoViT",
-            "stars": 183,
+            "stars": 182,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -748,7 +748,7 @@
             "open_issues": 137,
             "owner": "LiheYoung",
             "repo": "Depth-Anything",
-            "stars": 8208,
+            "stars": 8210,
             "topics": [
               "depth-estimation",
               "image-synthesis",
@@ -774,7 +774,7 @@
             "open_issues": 79,
             "owner": "apple-aiml-research",
             "repo": "ml-depth-pro",
-            "stars": 5715,
+            "stars": 5717,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -910,7 +910,7 @@
             "open_issues": 1994,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38769,
+            "stars": 38775,
             "topics": [
               "ai",
               "machine-learning",
@@ -1594,7 +1594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T17:39:28.831Z",
+    "last_updated": "2026-09-16T17:36:55.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent monocular depth estimation papers",
