@@ -434,7 +434,7 @@
             "open_issues": 10,
             "owner": "fudan-zvg",
             "repo": "meta-prompts",
-            "stars": 74,
+            "stars": 75,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -455,7 +455,7 @@
             "open_issues": 10,
             "owner": "fudan-zvg",
             "repo": "meta-prompts",
-            "stars": 74,
+            "stars": 75,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -795,7 +795,7 @@
             "open_issues": 99,
             "owner": "isl-org",
             "repo": "ZoeDepth",
-            "stars": 2839,
+            "stars": 2838,
             "topics": [
               "adaptive-bins",
               "deep-learning",
@@ -910,7 +910,7 @@
             "open_issues": 1994,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38783,
+            "stars": 38786,
             "topics": [
               "ai",
               "machine-learning",
@@ -1594,7 +1594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T17:36:54.049Z",
+    "last_updated": "2026-09-18T17:03:38.493Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent monocular depth estimation papers",

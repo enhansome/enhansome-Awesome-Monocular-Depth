@@ -1,6 +1,6 @@
 # Awesome Monocular Depth Estimation with stars
 
-A list of recent monocular depth estimation work, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,558 | 🐛 96 | 📅 2024-05-17.
+A list of recent monocular depth estimation work, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,561 | 🐛 97 | 📅 2024-05-17.
 
 The list is mainly focusing on recent work after 2020
 
@@ -29,8 +29,8 @@ The list is mainly focusing on recent work after 2020
 * [PixelFormer: Attention Attention Everywhere: Monocular Depth Prediction with Skip Attention](https://github.com/ashutosh1807/pixelformer) ⭐ 109 | 🐛 7 | 🌐 Python | 📅 2023-02-13 (Diffusion), WACV 2023 | [github](https://github.com/ashutosh1807/pixelformer) ⭐ 109 | 🐛 7 | 🌐 Python | 📅 2023-02-13
 * [IEBins: Iterative Elastic Bins for Monocular Depth Estimation](https://github.com/ShuweiShao/IEBins) ⭐ 90 | 🐛 3 | 🌐 Python | 📅 2026-03-24, NeurIPS 2023 | [github](https://github.com/ShuweiShao/IEBins) ⭐ 90 | 🐛 3 | 🌐 Python | 📅 2026-03-24
 * [EVP: Enhanced Visual Perception using Inverse Multi-Attentive Feature Refinement and Regularized Image-Text Alignment](https://lavreniuk.github.io/EVP/) (Diffusion), arXiv 2023  | [github](https://github.com/Lavreniuk/EVP) ⭐ 88 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2025-05-26
-* [Harnessing Diffusion Models for Visual Perception with Meta Prompts](https://github.com/fudan-zvg/meta-prompts) ⭐ 74 | 🐛 10 | 🌐 Python | 📅 2025-02-08 (diffusion), arxiv 2024  | [github](https://github.com/fudan-zvg/meta-prompts) ⭐ 74 | 🐛 10 | 🌐 Python | 📅 2025-02-08
-* [Harnessing Diffusion Models for Visual Perception with Meta Prompts](https://github.com/fudan-zvg/meta-prompts?tab=readme-ov-file) ⭐ 74 | 🐛 10 | 🌐 Python | 📅 2025-02-08, arXiv 2023 | [github](https://github.com/fudan-zvg/meta-prompts?tab=readme-ov-file) ⭐ 74 | 🐛 10 | 🌐 Python | 📅 2025-02-08
+* [Harnessing Diffusion Models for Visual Perception with Meta Prompts](https://github.com/fudan-zvg/meta-prompts) ⭐ 75 | 🐛 10 | 🌐 Python | 📅 2025-02-08 (diffusion), arxiv 2024  | [github](https://github.com/fudan-zvg/meta-prompts) ⭐ 75 | 🐛 10 | 🌐 Python | 📅 2025-02-08
+* [Harnessing Diffusion Models for Visual Perception with Meta Prompts](https://github.com/fudan-zvg/meta-prompts?tab=readme-ov-file) ⭐ 75 | 🐛 10 | 🌐 Python | 📅 2025-02-08, arXiv 2023 | [github](https://github.com/fudan-zvg/meta-prompts?tab=readme-ov-file) ⭐ 75 | 🐛 10 | 🌐 Python | 📅 2025-02-08
 * [Improving Deep Regression with Ordinal Entropy](https://github.com/needylove/ordinalentropy) ⭐ 55 | 🐛 4 | 🌐 Python | 📅 2023-09-15, ICLR 2023 | [github](https://github.com/needylove/ordinalentropy) ⭐ 55 | 🐛 4 | 🌐 Python | 📅 2023-09-15
 * [WorDepth: Variational Language Prior for Monocular Depth Estimation](https://openaccess.thecvf.com/content/CVPR2024/html/Zeng_WorDepth_Variational_Language_Prior_for_Monocular_Depth_Estimation_CVPR_2024_paper.html), CVPR 2024 | [github](https://github.com/Adonis-galaxy/WorDepth/) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2025-02-04
 * [Text-Image Alignment for Diffusion-Based Perception](http://www.vision.caltech.edu/tadp/) (Diffusion), CVPR 2024 | [github](https://github.com/damaggu/tadp) ⭐ 41 | 🐛 2 | 🌐 Python | 📅 2024-08-26
@@ -98,7 +98,7 @@ The list is mainly focusing on recent work after 2020
 <details open>
 <summary>Depth from Dual-Pixel, optics, or photography</summary>
 
-* [Learning single camera depth estimation using dual-pixels](https://github.com/google-research/google-research/blob/master/dual_pixels/README.md) ⭐ 38,783 | 🐛 1,994 | 🌐 Jupyter Notebook | 📅 2026-09-16, ICCV 2019 | [github](https://github.com/google-research/google-research/blob/master/dual_pixels/README.md) ⭐ 38,783 | 🐛 1,994 | 🌐 Jupyter Notebook | 📅 2026-09-16
+* [Learning single camera depth estimation using dual-pixels](https://github.com/google-research/google-research/blob/master/dual_pixels/README.md) ⭐ 38,786 | 🐛 1,994 | 🌐 Jupyter Notebook | 📅 2026-09-16, ICCV 2019 | [github](https://github.com/google-research/google-research/blob/master/dual_pixels/README.md) ⭐ 38,786 | 🐛 1,994 | 🌐 Jupyter Notebook | 📅 2026-09-16
 * [Shakes on a Plane: Unsupervised Depth Estimation from Unstabilized Photography](https://github.com/princeton-computational-imaging/SoaP) ⭐ 58 | 🐛 0 | 🌐 Python | 📅 2025-02-18, CVPR 2023 | [github](https://github.com/princeton-computational-imaging/SoaP) ⭐ 58 | 🐛 0 | 🌐 Python | 📅 2025-02-18
 * [Fully Self-Supervised Depth Estimation from Defocus Clue](https://github.com/Ehzoahis/DEReD) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2023-06-03, CVPR 2023 | [github](https://github.com/Ehzoahis/DEReD) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2023-06-03
 * [Dual pixel exploration: Simultaneous depth estimation and image restoration](https://github.com/panpanfei/Dual-Pixel-Exploration-Simultaneous-Depth-Estimation-and-Image-Restoration) ⭐ 36 | 🐛 6 | 🌐 Python | 📅 2022-04-24, CVPR 2021 | [github](https://github.com/panpanfei/Dual-Pixel-Exploration-Simultaneous-Depth-Estimation-and-Image-Restoration) ⭐ 36 | 🐛 6 | 🌐 Python | 📅 2022-04-24
@@ -167,4 +167,4 @@ Indoor dataset with a focus on space type
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
