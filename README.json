@@ -45,7 +45,7 @@
             "open_issues": 79,
             "owner": "apple-aiml-research",
             "repo": "ml-depth-pro",
-            "stars": 5718,
+            "stars": 5720,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -66,7 +66,7 @@
             "open_issues": 8,
             "owner": "prs-eth",
             "repo": "Marigold",
-            "stars": 3229,
+            "stars": 3230,
             "topics": [
               "depth-estimation",
               "diffusion",
@@ -774,7 +774,7 @@
             "open_issues": 79,
             "owner": "apple-aiml-research",
             "repo": "ml-depth-pro",
-            "stars": 5718,
+            "stars": 5720,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -795,7 +795,7 @@
             "open_issues": 99,
             "owner": "isl-org",
             "repo": "ZoeDepth",
-            "stars": 2838,
+            "stars": 2837,
             "topics": [
               "adaptive-bins",
               "deep-learning",
@@ -826,7 +826,7 @@
             "open_issues": 86,
             "owner": "YvanYin",
             "repo": "Metric3D",
-            "stars": 2321,
+            "stars": 2323,
             "topics": [
               "3d-reconstruction",
               "3d-scenes",
@@ -910,7 +910,7 @@
             "open_issues": 1995,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38794,
+            "stars": 38803,
             "topics": [
               "ai",
               "machine-learning",
@@ -1594,7 +1594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T16:26:26.270Z",
+    "last_updated": "2026-09-20T16:46:41.815Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent monocular depth estimation papers",
