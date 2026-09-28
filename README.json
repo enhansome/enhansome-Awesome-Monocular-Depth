@@ -45,7 +45,7 @@
             "open_issues": 79,
             "owner": "apple-aiml-research",
             "repo": "ml-depth-pro",
-            "stars": 5730,
+            "stars": 5732,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -66,7 +66,7 @@
             "open_issues": 8,
             "owner": "prs-eth",
             "repo": "Marigold",
-            "stars": 3234,
+            "stars": 3236,
             "topics": [
               "depth-estimation",
               "diffusion",
@@ -572,7 +572,7 @@
             "open_issues": 0,
             "owner": "noahzn",
             "repo": "Lite-Mono",
-            "stars": 715,
+            "stars": 716,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -774,7 +774,7 @@
             "open_issues": 79,
             "owner": "apple-aiml-research",
             "repo": "ml-depth-pro",
-            "stars": 5730,
+            "stars": 5732,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -910,7 +910,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38831,
+            "stars": 38839,
             "topics": [
               "ai",
               "machine-learning",
@@ -1594,7 +1594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T17:42:45.718Z",
+    "last_updated": "2026-09-28T20:06:47.750Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent monocular depth estimation papers",
@@ -1606,7 +1606,7 @@
       "open_issues": 2,
       "owner": "choyingw",
       "repo": "Awesome-Monocular-Depth",
-      "stars": 210,
+      "stars": 211,
       "topics": [
         "3d",
         "awesome-list",
