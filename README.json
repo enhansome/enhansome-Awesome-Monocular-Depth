@@ -45,7 +45,7 @@
             "open_issues": 79,
             "owner": "apple-aiml-research",
             "repo": "ml-depth-pro",
-            "stars": 5732,
+            "stars": 5735,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -93,7 +93,7 @@
             "open_issues": 87,
             "owner": "lpiccinelli-eth",
             "repo": "UniDepth",
-            "stars": 1266,
+            "stars": 1268,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -774,7 +774,7 @@
             "open_issues": 79,
             "owner": "apple-aiml-research",
             "repo": "ml-depth-pro",
-            "stars": 5732,
+            "stars": 5735,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -858,7 +858,7 @@
             "open_issues": 87,
             "owner": "lpiccinelli-eth",
             "repo": "UniDepth",
-            "stars": 1266,
+            "stars": 1268,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -910,7 +910,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38839,
+            "stars": 38849,
             "topics": [
               "ai",
               "machine-learning",
@@ -1594,7 +1594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T20:06:47.750Z",
+    "last_updated": "2026-09-29T18:36:20.625Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent monocular depth estimation papers",
