@@ -45,7 +45,7 @@
             "open_issues": 79,
             "owner": "apple-aiml-research",
             "repo": "ml-depth-pro",
-            "stars": 5734,
+            "stars": 5735,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -299,7 +299,7 @@
             "open_issues": 3,
             "owner": "md4all",
             "repo": "md4all",
-            "stars": 129,
+            "stars": 130,
             "topics": [
               "adverse-weather-condition",
               "depth-estimation",
@@ -774,7 +774,7 @@
             "open_issues": 79,
             "owner": "apple-aiml-research",
             "repo": "ml-depth-pro",
-            "stars": 5734,
+            "stars": 5735,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:43.180Z"
@@ -910,7 +910,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38858,
+            "stars": 38861,
             "topics": [
               "ai",
               "machine-learning",
@@ -1033,7 +1033,7 @@
             "open_issues": 74,
             "owner": "valeoai",
             "repo": "WoodScape",
-            "stars": 720,
+            "stars": 721,
             "topics": [
               "dataset"
             ]
@@ -1594,7 +1594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T18:50:53.916Z",
+    "last_updated": "2026-10-02T18:22:45.974Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent monocular depth estimation papers",
