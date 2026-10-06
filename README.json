@@ -95,7 +95,7 @@
                 "open_issues": 88,
                 "owner": "lpiccinelli-eth",
                 "repo": "UniDepth",
-                "stars": 1268,
+                "stars": 1266,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -830,7 +830,7 @@
                 "open_issues": 86,
                 "owner": "YvanYin",
                 "repo": "Metric3D",
-                "stars": 2326,
+                "stars": 2324,
                 "topics": [
                   "3d-reconstruction",
                   "3d-scenes",
@@ -862,7 +862,7 @@
                 "open_issues": 88,
                 "owner": "lpiccinelli-eth",
                 "repo": "UniDepth",
-                "stars": 1268,
+                "stars": 1266,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -915,7 +915,7 @@
                 "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38873,
+                "stars": 38874,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:28:11.996Z",
+    "last_updated": "2026-10-06T10:38:13.281Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent monocular depth estimation papers",
