@@ -47,7 +47,7 @@
                 "open_issues": 79,
                 "owner": "apple-aiml-research",
                 "repo": "ml-depth-pro",
-                "stars": 5737,
+                "stars": 5739,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:43.180Z"
@@ -778,7 +778,7 @@
                 "open_issues": 79,
                 "owner": "apple-aiml-research",
                 "repo": "ml-depth-pro",
-                "stars": 5737,
+                "stars": 5739,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:43.180Z"
@@ -911,11 +911,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T21:03:49Z",
+                "last_commit": "2026-10-07T17:54:26Z",
                 "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38877,
+                "stars": 38880,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T18:53:34.020Z",
+    "last_updated": "2026-10-07T19:19:01.056Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent monocular depth estimation papers",
