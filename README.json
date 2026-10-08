@@ -47,7 +47,7 @@
                 "open_issues": 79,
                 "owner": "apple-aiml-research",
                 "repo": "ml-depth-pro",
-                "stars": 5739,
+                "stars": 5742,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:43.180Z"
@@ -95,7 +95,7 @@
                 "open_issues": 88,
                 "owner": "lpiccinelli-eth",
                 "repo": "UniDepth",
-                "stars": 1266,
+                "stars": 1267,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -496,7 +496,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-02-04T23:03:07Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "Adonis-galaxy",
                 "repo": "WorDepth",
                 "stars": 48,
@@ -575,7 +575,7 @@
                 "open_issues": 0,
                 "owner": "noahzn",
                 "repo": "Lite-Mono",
-                "stars": 716,
+                "stars": 717,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:43.180Z"
@@ -778,7 +778,7 @@
                 "open_issues": 79,
                 "owner": "apple-aiml-research",
                 "repo": "ml-depth-pro",
-                "stars": 5739,
+                "stars": 5742,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:43.180Z"
@@ -862,7 +862,7 @@
                 "open_issues": 88,
                 "owner": "lpiccinelli-eth",
                 "repo": "UniDepth",
-                "stars": 1266,
+                "stars": 1267,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -911,11 +911,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T17:54:26Z",
+                "last_commit": "2026-10-08T17:38:14Z",
                 "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38880,
+                "stars": 38883,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1036,7 +1036,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2023-08-26T16:16:46Z",
-                "open_issues": 74,
+                "open_issues": 75,
                 "owner": "valeoai",
                 "repo": "WoodScape",
                 "stars": 721,
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T19:19:01.056Z",
+    "last_updated": "2026-10-08T19:15:44.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent monocular depth estimation papers",
