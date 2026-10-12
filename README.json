@@ -21,7 +21,7 @@
                 "open_issues": 137,
                 "owner": "LiheYoung",
                 "repo": "Depth-Anything",
-                "stars": 8228,
+                "stars": 8230,
                 "topics": [
                   "depth-estimation",
                   "image-synthesis",
@@ -47,7 +47,7 @@
                 "open_issues": 79,
                 "owner": "apple-aiml-research",
                 "repo": "ml-depth-pro",
-                "stars": 5748,
+                "stars": 5749,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:43.180Z"
@@ -95,7 +95,7 @@
                 "open_issues": 88,
                 "owner": "lpiccinelli-eth",
                 "repo": "UniDepth",
-                "stars": 1269,
+                "stars": 1268,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -752,7 +752,7 @@
                 "open_issues": 137,
                 "owner": "LiheYoung",
                 "repo": "Depth-Anything",
-                "stars": 8228,
+                "stars": 8230,
                 "topics": [
                   "depth-estimation",
                   "image-synthesis",
@@ -778,7 +778,7 @@
                 "open_issues": 79,
                 "owner": "apple-aiml-research",
                 "repo": "ml-depth-pro",
-                "stars": 5748,
+                "stars": 5749,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:43.180Z"
@@ -862,7 +862,7 @@
                 "open_issues": 88,
                 "owner": "lpiccinelli-eth",
                 "repo": "UniDepth",
-                "stars": 1269,
+                "stars": 1268,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -911,11 +911,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T14:34:09Z",
+                "last_commit": "2026-10-12T13:39:16Z",
                 "open_issues": 2005,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38897,
+                "stars": 38901,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1234,7 +1234,7 @@
                 "open_issues": 38,
                 "owner": "JUGGHM",
                 "repo": "PENet_ICRA2021",
-                "stars": 362,
+                "stars": 361,
                 "topics": [
                   "depth-completion",
                   "pytorch"
@@ -1258,7 +1258,7 @@
                 "open_issues": 1,
                 "owner": "zzangjinsun",
                 "repo": "NLSPN_ECCV20",
-                "stars": 348,
+                "stars": 347,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:43.180Z"
@@ -1457,7 +1457,7 @@
                 "open_issues": 7,
                 "owner": "Kyakaka",
                 "repo": "DySPN",
-                "stars": 36,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:43.180Z"
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T18:02:33.861Z",
+    "last_updated": "2026-10-12T21:43:02.472Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent monocular depth estimation papers",
