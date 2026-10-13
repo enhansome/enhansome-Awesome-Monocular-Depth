@@ -21,7 +21,7 @@
                 "open_issues": 137,
                 "owner": "LiheYoung",
                 "repo": "Depth-Anything",
-                "stars": 8230,
+                "stars": 8234,
                 "topics": [
                   "depth-estimation",
                   "image-synthesis",
@@ -47,7 +47,7 @@
                 "open_issues": 79,
                 "owner": "apple-aiml-research",
                 "repo": "ml-depth-pro",
-                "stars": 5749,
+                "stars": 5750,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:43.180Z"
@@ -68,7 +68,7 @@
                 "open_issues": 8,
                 "owner": "prs-eth",
                 "repo": "Marigold",
-                "stars": 3237,
+                "stars": 3239,
                 "topics": [
                   "depth-estimation",
                   "diffusion",
@@ -752,7 +752,7 @@
                 "open_issues": 137,
                 "owner": "LiheYoung",
                 "repo": "Depth-Anything",
-                "stars": 8230,
+                "stars": 8234,
                 "topics": [
                   "depth-estimation",
                   "image-synthesis",
@@ -778,7 +778,7 @@
                 "open_issues": 79,
                 "owner": "apple-aiml-research",
                 "repo": "ml-depth-pro",
-                "stars": 5749,
+                "stars": 5750,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:43.180Z"
@@ -911,11 +911,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T13:39:16Z",
+                "last_commit": "2026-10-13T06:27:55Z",
                 "open_issues": 2005,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38901,
+                "stars": 38911,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1384,7 +1384,7 @@
                 "open_issues": 12,
                 "owner": "YufeiWang777",
                 "repo": "LRRU",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:43.180Z"
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T21:43:02.472Z",
+    "last_updated": "2026-10-13T19:50:52.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent monocular depth estimation papers",
