@@ -68,7 +68,7 @@
                 "open_issues": 8,
                 "owner": "prs-eth",
                 "repo": "Marigold",
-                "stars": 3242,
+                "stars": 3243,
                 "topics": [
                   "depth-estimation",
                   "diffusion",
@@ -575,7 +575,7 @@
                 "open_issues": 0,
                 "owner": "noahzn",
                 "repo": "Lite-Mono",
-                "stars": 718,
+                "stars": 719,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:43.180Z"
@@ -799,7 +799,7 @@
                 "open_issues": 99,
                 "owner": "isl-org",
                 "repo": "ZoeDepth",
-                "stars": 2837,
+                "stars": 2836,
                 "topics": [
                   "adaptive-bins",
                   "deep-learning",
@@ -915,7 +915,7 @@
                 "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38939,
+                "stars": 38959,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T16:29:24.829Z",
+    "last_updated": "2026-10-19T19:17:14.136Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent monocular depth estimation papers",

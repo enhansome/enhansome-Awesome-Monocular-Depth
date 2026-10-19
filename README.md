@@ -13,7 +13,7 @@ The list is mainly focusing on recent work after 2020
 
 * [Unleashing the Power of Large-Scale Unlabeled Data](https://depth-anything.github.io/), CVPR 2024  | [github](https://github.com/LiheYoung/Depth-Anything) ⭐ 8,238 | 🐛 137 | 🌐 Python | 📅 2024-07-17 [huggingface](https://huggingface.co/spaces/LiheYoung/Depth-Anything)
 * [Depth Pro: Sharp Monocular Metric Depth in Less Than a Second](https://arxiv.org/abs/2410.02073/) (precise focal length estimation with metric depth), arXiv 2024 | [github](https://github.com/apple/ml-depth-pro/) ⭐ 5,757 | 🐛 79 | 🌐 Python | 📅 2026-09-11
-* [Marigold: Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation](https://github.com/prs-eth/marigold) ⭐ 3,242 | 🐛 8 | 🌐 Python | 📅 2026-09-06 (diffusion), CVPR 2024  | [github](https://github.com/prs-eth/marigold) ⭐ 3,242 | 🐛 8 | 🌐 Python | 📅 2026-09-06
+* [Marigold: Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation](https://github.com/prs-eth/marigold) ⭐ 3,243 | 🐛 8 | 🌐 Python | 📅 2026-09-06 (diffusion), CVPR 2024  | [github](https://github.com/prs-eth/marigold) ⭐ 3,243 | 🐛 8 | 🌐 Python | 📅 2026-09-06
 * [UniDepth: Universal Monocular Metric Depth Estimation](https://github.com/lpiccinelli-eth/unidepth) ⭐ 1,273 | 🐛 88 | 🌐 Python | 📅 2025-05-18, (universal metric depth estimation; one's zero-shot performance match depth-anything on NYUv2), CVPR 2024  | [github](https://github.com/lpiccinelli-eth/unidepth) ⭐ 1,273 | 🐛 88 | 🌐 Python | 📅 2025-05-18
 * [Unleashing Text-to-Image Diffusion Models for Visual Perception](https://vpd.ivg-research.xyz/) (Diffusion), ICCV 2023 | [github](https://github.com/wl-zhao/VPD) ⭐ 539 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2023-12-21
 * [Neural Video Depth Stabilizer](https://github.com/raymondwang987/nvds) ⭐ 528 | 🐛 23 | 🌐 Python | 📅 2024-10-18 , ICCV 2023 | [github](https://github.com/raymondwang987/nvds) ⭐ 528 | 🐛 23 | 🌐 Python | 📅 2024-10-18
@@ -48,7 +48,7 @@ The list is mainly focusing on recent work after 2020
 <details open>
 <summary>Self-Supervised Depth Estimation</summary>
 
-* [Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Lite-Mono_A_Lightweight_CNN_and_Transformer_Architecture_for_Self-Supervised_Monocular_CVPR_2023_paper.html), ICCV 2023 | [github](https://github.com/noahzn/Lite-Mono) ⭐ 718 | 🐛 0 | 🌐 Python | 📅 2023-12-11
+* [Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Lite-Mono_A_Lightweight_CNN_and_Transformer_Architecture_for_Self-Supervised_Monocular_CVPR_2023_paper.html), ICCV 2023 | [github](https://github.com/noahzn/Lite-Mono) ⭐ 719 | 🐛 0 | 🌐 Python | 📅 2023-12-11
 * [Toward Practical Monocular Indoor Depth Estimation](https://distdepth.github.io/), CVPR 2022 | [github](https://github.com/facebookresearch/DistDepth) ⭐ 236 | 🐛 18 | 🌐 Python | 📅 2025-03-03
 * [Self-supervised monocular depth estimation with a vision transformer](https://arxiv.org/abs/2208.03543), 3DV 2022 | [github](https://github.com/zxcqlf/MonoViT) ⭐ 182 | 🐛 16 | 🌐 Python | 📅 2023-04-03
 * [SQLdepth: Generalizable Self-Supervised Fine-Structured Monocular Depth Estimation](https://ojs.aaai.org/index.php/AAAI/article/view/28383), AAAI 2024 | [github](https://github.com/hisfog/SfMNeXt-Impl) ⭐ 95 | 🐛 31 | 🌐 Python | 📅 2024-04-11
@@ -98,7 +98,7 @@ The list is mainly focusing on recent work after 2020
 <details open>
 <summary>Depth from Dual-Pixel, optics, or photography</summary>
 
-* [Learning single camera depth estimation using dual-pixels](https://github.com/google-research/google-research/blob/master/dual_pixels/README.md) ⭐ 38,939 | 🐛 2,008 | 🌐 Jupyter Notebook | 📅 2026-10-15, ICCV 2019 | [github](https://github.com/google-research/google-research/blob/master/dual_pixels/README.md) ⭐ 38,939 | 🐛 2,008 | 🌐 Jupyter Notebook | 📅 2026-10-15
+* [Learning single camera depth estimation using dual-pixels](https://github.com/google-research/google-research/blob/master/dual_pixels/README.md) ⭐ 38,959 | 🐛 2,008 | 🌐 Jupyter Notebook | 📅 2026-10-15, ICCV 2019 | [github](https://github.com/google-research/google-research/blob/master/dual_pixels/README.md) ⭐ 38,959 | 🐛 2,008 | 🌐 Jupyter Notebook | 📅 2026-10-15
 * [Shakes on a Plane: Unsupervised Depth Estimation from Unstabilized Photography](https://github.com/princeton-computational-imaging/SoaP) ⭐ 58 | 🐛 0 | 🌐 Python | 📅 2025-02-18, CVPR 2023 | [github](https://github.com/princeton-computational-imaging/SoaP) ⭐ 58 | 🐛 0 | 🌐 Python | 📅 2025-02-18
 * [Fully Self-Supervised Depth Estimation from Defocus Clue](https://github.com/Ehzoahis/DEReD) ⭐ 50 | 🐛 1 | 🌐 Python | 📅 2023-06-03, CVPR 2023 | [github](https://github.com/Ehzoahis/DEReD) ⭐ 50 | 🐛 1 | 🌐 Python | 📅 2023-06-03
 * [Dual pixel exploration: Simultaneous depth estimation and image restoration](https://github.com/panpanfei/Dual-Pixel-Exploration-Simultaneous-Depth-Estimation-and-Image-Restoration) ⭐ 36 | 🐛 6 | 🌐 Python | 📅 2022-04-24, CVPR 2021 | [github](https://github.com/panpanfei/Dual-Pixel-Exploration-Simultaneous-Depth-Estimation-and-Image-Restoration) ⭐ 36 | 🐛 6 | 🌐 Python | 📅 2022-04-24
@@ -167,4 +167,4 @@ Indoor dataset with a focus on space type
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
