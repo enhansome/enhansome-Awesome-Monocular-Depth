@@ -21,7 +21,7 @@
                 "open_issues": 137,
                 "owner": "LiheYoung",
                 "repo": "Depth-Anything",
-                "stars": 8238,
+                "stars": 8241,
                 "topics": [
                   "depth-estimation",
                   "image-synthesis",
@@ -68,7 +68,7 @@
                 "open_issues": 8,
                 "owner": "prs-eth",
                 "repo": "Marigold",
-                "stars": 3243,
+                "stars": 3242,
                 "topics": [
                   "depth-estimation",
                   "diffusion",
@@ -541,7 +541,7 @@
                 "open_issues": 4,
                 "owner": "shariqfarooq123",
                 "repo": "LocalBins",
-                "stars": 25,
+                "stars": 26,
                 "topics": [
                   "adaptive-bins",
                   "deep-learning",
@@ -596,7 +596,7 @@
                 "open_issues": 18,
                 "owner": "facebookresearch",
                 "repo": "DistDepth",
-                "stars": 236,
+                "stars": 237,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:43.180Z"
@@ -752,7 +752,7 @@
                 "open_issues": 137,
                 "owner": "LiheYoung",
                 "repo": "Depth-Anything",
-                "stars": 8238,
+                "stars": 8241,
                 "topics": [
                   "depth-estimation",
                   "image-synthesis",
@@ -830,7 +830,7 @@
                 "open_issues": 86,
                 "owner": "YvanYin",
                 "repo": "Metric3D",
-                "stars": 2329,
+                "stars": 2330,
                 "topics": [
                   "3d-reconstruction",
                   "3d-scenes",
@@ -887,7 +887,7 @@
                 "open_issues": 18,
                 "owner": "facebookresearch",
                 "repo": "DistDepth",
-                "stars": 236,
+                "stars": 237,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:43.180Z"
@@ -915,7 +915,7 @@
                 "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38959,
+                "stars": 38983,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T19:17:14.136Z",
+    "last_updated": "2026-10-20T17:57:40.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent monocular depth estimation papers",
