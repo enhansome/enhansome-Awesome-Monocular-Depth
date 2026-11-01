@@ -21,7 +21,7 @@
                 "open_issues": 136,
                 "owner": "LiheYoung",
                 "repo": "Depth-Anything",
-                "stars": 8247,
+                "stars": 8248,
                 "topics": [
                   "depth-estimation",
                   "image-synthesis",
@@ -752,7 +752,7 @@
                 "open_issues": 136,
                 "owner": "LiheYoung",
                 "repo": "Depth-Anything",
-                "stars": 8247,
+                "stars": 8248,
                 "topics": [
                   "depth-estimation",
                   "image-synthesis",
@@ -915,7 +915,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39071,
+                "stars": 39080,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T17:41:28.964Z",
+    "last_updated": "2026-11-01T18:24:18.235Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent monocular depth estimation papers",
