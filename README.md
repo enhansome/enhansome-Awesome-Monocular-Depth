@@ -23,7 +23,7 @@ The list is mainly focusing on recent work after 2020
 * [ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation](https://github.com/aradhye2002/ecodepth) ⭐ 220 | 🐛 8 | 🌐 Python | 📅 2025-11-20 (diffusion), CVPR 2024  | [github](https://github.com/aradhye2002/ecodepth) ⭐ 220 | 🐛 8 | 🌐 Python | 📅 2025-11-20
 * [DDP: Diffusion Model for Dense Visual Prediction](https://github.com/jiyuanfeng/ddp) ⭐ 213 | 🐛 11 | 🌐 Python | 📅 2024-02-24 (Diffusion), arXiv 2023 | [github](https://github.com/jiyuanfeng/ddp) ⭐ 213 | 🐛 11 | 🌐 Python | 📅 2024-02-24
 * [Revealing the Dark Secrets of Masked Image Modeling](http://www.computationalimaging.org/publications/automatic-integration/) (tokenization approach), CVPR 2023 | [github](https://github.com/SwinTransformer/MIM-Depth-Estimation) ⭐ 176 | 🐛 6 | 🌐 Python | 📅 2023-03-27
-* [Robust Monocular Depth Estimation under Challenging Conditions](https://md4all.github.io/), ICCV 2023 | [github](https://github.com/md4all/md4all) ⭐ 130 | 🐛 3 | 🌐 Python | 📅 2023-11-21
+* [Robust Monocular Depth Estimation under Challenging Conditions](https://md4all.github.io/), ICCV 2023 | [github](https://github.com/md4all/md4all) ⭐ 131 | 🐛 3 | 🌐 Python | 📅 2023-11-21
 * [VA-DepthNet: A Variational Approach to Single Image Depth Prediction](https://github.com/cnexah/va-depthnet) ⭐ 112 | 🐛 10 | 🌐 Python | 📅 2023-04-28, ICLR 2023 | [github](https://github.com/cnexah/va-depthnet) ⭐ 112 | 🐛 10 | 🌐 Python | 📅 2023-04-28
 * [All in Tokens: Unifying Output Space of Visual Tasks via Soft Token](https://github.com/swintransformer/ait) ⭐ 110 | 🐛 11 | 🌐 Python | 📅 2023-06-30 (tokenized), arXiv 2023 | [github](https://github.com/swintransformer/ait) ⭐ 110 | 🐛 11 | 🌐 Python | 📅 2023-06-30
 * [PixelFormer: Attention Attention Everywhere: Monocular Depth Prediction with Skip Attention](https://github.com/ashutosh1807/pixelformer) ⭐ 109 | 🐛 7 | 🌐 Python | 📅 2023-02-13 (Diffusion), WACV 2023 | [github](https://github.com/ashutosh1807/pixelformer) ⭐ 109 | 🐛 7 | 🌐 Python | 📅 2023-02-13
@@ -98,7 +98,7 @@ The list is mainly focusing on recent work after 2020
 <details open>
 <summary>Depth from Dual-Pixel, optics, or photography</summary>
 
-* [Learning single camera depth estimation using dual-pixels](https://github.com/google-research/google-research/blob/master/dual_pixels/README.md) ⭐ 39,080 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-30, ICCV 2019 | [github](https://github.com/google-research/google-research/blob/master/dual_pixels/README.md) ⭐ 39,080 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-30
+* [Learning single camera depth estimation using dual-pixels](https://github.com/google-research/google-research/blob/master/dual_pixels/README.md) ⭐ 39,096 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-30, ICCV 2019 | [github](https://github.com/google-research/google-research/blob/master/dual_pixels/README.md) ⭐ 39,096 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-30
 * [Shakes on a Plane: Unsupervised Depth Estimation from Unstabilized Photography](https://github.com/princeton-computational-imaging/SoaP) ⭐ 58 | 🐛 0 | 🌐 Python | 📅 2025-02-18, CVPR 2023 | [github](https://github.com/princeton-computational-imaging/SoaP) ⭐ 58 | 🐛 0 | 🌐 Python | 📅 2025-02-18
 * [Fully Self-Supervised Depth Estimation from Defocus Clue](https://github.com/Ehzoahis/DEReD) ⭐ 50 | 🐛 1 | 🌐 Python | 📅 2023-06-03, CVPR 2023 | [github](https://github.com/Ehzoahis/DEReD) ⭐ 50 | 🐛 1 | 🌐 Python | 📅 2023-06-03
 * [Dual pixel exploration: Simultaneous depth estimation and image restoration](https://github.com/panpanfei/Dual-Pixel-Exploration-Simultaneous-Depth-Estimation-and-Image-Restoration) ⭐ 36 | 🐛 6 | 🌐 Python | 📅 2022-04-24, CVPR 2021 | [github](https://github.com/panpanfei/Dual-Pixel-Exploration-Simultaneous-Depth-Estimation-and-Image-Restoration) ⭐ 36 | 🐛 6 | 🌐 Python | 📅 2022-04-24
@@ -167,4 +167,4 @@ Indoor dataset with a focus on space type
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
