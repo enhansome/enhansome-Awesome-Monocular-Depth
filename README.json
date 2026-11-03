@@ -21,7 +21,7 @@
                 "open_issues": 136,
                 "owner": "LiheYoung",
                 "repo": "Depth-Anything",
-                "stars": 8248,
+                "stars": 8247,
                 "topics": [
                   "depth-estimation",
                   "image-synthesis",
@@ -68,7 +68,7 @@
                 "open_issues": 9,
                 "owner": "prs-eth",
                 "repo": "Marigold",
-                "stars": 3246,
+                "stars": 3248,
                 "topics": [
                   "depth-estimation",
                   "diffusion",
@@ -752,7 +752,7 @@
                 "open_issues": 136,
                 "owner": "LiheYoung",
                 "repo": "Depth-Anything",
-                "stars": 8248,
+                "stars": 8247,
                 "topics": [
                   "depth-estimation",
                   "image-synthesis",
@@ -830,7 +830,7 @@
                 "open_issues": 85,
                 "owner": "YvanYin",
                 "repo": "Metric3D",
-                "stars": 2337,
+                "stars": 2338,
                 "topics": [
                   "3d-reconstruction",
                   "3d-scenes",
@@ -915,7 +915,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39096,
+                "stars": 39101,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:17:35.023Z",
+    "last_updated": "2026-11-03T20:04:12.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent monocular depth estimation papers",
