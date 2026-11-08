@@ -68,7 +68,7 @@
                 "open_issues": 9,
                 "owner": "prs-eth",
                 "repo": "Marigold",
-                "stars": 3249,
+                "stars": 3248,
                 "topics": [
                   "depth-estimation",
                   "diffusion",
@@ -95,7 +95,7 @@
                 "open_issues": 87,
                 "owner": "lpiccinelli-eth",
                 "repo": "UniDepth",
-                "stars": 1279,
+                "stars": 1280,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -862,7 +862,7 @@
                 "open_issues": 87,
                 "owner": "lpiccinelli-eth",
                 "repo": "UniDepth",
-                "stars": 1279,
+                "stars": 1280,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -915,7 +915,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39126,
+                "stars": 39137,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T18:00:44.814Z",
+    "last_updated": "2026-11-08T18:19:41.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent monocular depth estimation papers",
