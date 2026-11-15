@@ -47,7 +47,7 @@
                 "open_issues": 79,
                 "owner": "apple-aiml-research",
                 "repo": "ml-depth-pro",
-                "stars": 5784,
+                "stars": 5785,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:43.180Z"
@@ -68,7 +68,7 @@
                 "open_issues": 9,
                 "owner": "prs-eth",
                 "repo": "Marigold",
-                "stars": 3254,
+                "stars": 3255,
                 "topics": [
                   "depth-estimation",
                   "diffusion",
@@ -778,7 +778,7 @@
                 "open_issues": 79,
                 "owner": "apple-aiml-research",
                 "repo": "ml-depth-pro",
-                "stars": 5784,
+                "stars": 5785,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:43.180Z"
@@ -830,7 +830,7 @@
                 "open_issues": 86,
                 "owner": "YvanYin",
                 "repo": "Metric3D",
-                "stars": 2346,
+                "stars": 2347,
                 "topics": [
                   "3d-reconstruction",
                   "3d-scenes",
@@ -915,7 +915,7 @@
                 "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39175,
+                "stars": 39181,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1039,7 +1039,7 @@
                 "open_issues": 75,
                 "owner": "valeoai",
                 "repo": "WoodScape",
-                "stars": 725,
+                "stars": 726,
                 "topics": [
                   "dataset"
                 ]
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:43:29.399Z",
+    "last_updated": "2026-11-15T19:20:58.453Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent monocular depth estimation papers",
