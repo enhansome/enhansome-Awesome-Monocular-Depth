@@ -21,7 +21,7 @@
                 "open_issues": 136,
                 "owner": "LiheYoung",
                 "repo": "Depth-Anything",
-                "stars": 8255,
+                "stars": 8256,
                 "topics": [
                   "depth-estimation",
                   "image-synthesis",
@@ -47,7 +47,7 @@
                 "open_issues": 79,
                 "owner": "apple-aiml-research",
                 "repo": "ml-depth-pro",
-                "stars": 5785,
+                "stars": 5784,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:43.180Z"
@@ -65,10 +65,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-06T00:03:20Z",
-                "open_issues": 9,
+                "open_issues": 11,
                 "owner": "prs-eth",
                 "repo": "Marigold",
-                "stars": 3255,
+                "stars": 3256,
                 "topics": [
                   "depth-estimation",
                   "diffusion",
@@ -95,7 +95,7 @@
                 "open_issues": 87,
                 "owner": "lpiccinelli-eth",
                 "repo": "UniDepth",
-                "stars": 1283,
+                "stars": 1284,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -752,7 +752,7 @@
                 "open_issues": 136,
                 "owner": "LiheYoung",
                 "repo": "Depth-Anything",
-                "stars": 8255,
+                "stars": 8256,
                 "topics": [
                   "depth-estimation",
                   "image-synthesis",
@@ -778,7 +778,7 @@
                 "open_issues": 79,
                 "owner": "apple-aiml-research",
                 "repo": "ml-depth-pro",
-                "stars": 5785,
+                "stars": 5784,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:43.180Z"
@@ -830,7 +830,7 @@
                 "open_issues": 86,
                 "owner": "YvanYin",
                 "repo": "Metric3D",
-                "stars": 2347,
+                "stars": 2348,
                 "topics": [
                   "3d-reconstruction",
                   "3d-scenes",
@@ -862,7 +862,7 @@
                 "open_issues": 87,
                 "owner": "lpiccinelli-eth",
                 "repo": "UniDepth",
-                "stars": 1283,
+                "stars": 1284,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -911,11 +911,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T12:36:20Z",
+                "last_commit": "2026-11-16T16:31:35Z",
                 "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39181,
+                "stars": 39196,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1039,7 +1039,7 @@
                 "open_issues": 75,
                 "owner": "valeoai",
                 "repo": "WoodScape",
-                "stars": 726,
+                "stars": 727,
                 "topics": [
                   "dataset"
                 ]
@@ -1279,7 +1279,7 @@
                 "open_issues": 12,
                 "owner": "youmi-zym",
                 "repo": "CompletionFormer",
-                "stars": 282,
+                "stars": 283,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:43.180Z"
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:20:58.453Z",
+    "last_updated": "2026-11-16T22:51:38.022Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent monocular depth estimation papers",
