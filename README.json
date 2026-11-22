@@ -21,7 +21,7 @@
                 "open_issues": 136,
                 "owner": "LiheYoung",
                 "repo": "Depth-Anything",
-                "stars": 8256,
+                "stars": 8258,
                 "topics": [
                   "depth-estimation",
                   "image-synthesis",
@@ -47,7 +47,7 @@
                 "open_issues": 79,
                 "owner": "apple-aiml-research",
                 "repo": "ml-depth-pro",
-                "stars": 5788,
+                "stars": 5793,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:43.180Z"
@@ -752,7 +752,7 @@
                 "open_issues": 136,
                 "owner": "LiheYoung",
                 "repo": "Depth-Anything",
-                "stars": 8256,
+                "stars": 8258,
                 "topics": [
                   "depth-estimation",
                   "image-synthesis",
@@ -778,7 +778,7 @@
                 "open_issues": 79,
                 "owner": "apple-aiml-research",
                 "repo": "ml-depth-pro",
-                "stars": 5788,
+                "stars": 5793,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:43.180Z"
@@ -912,10 +912,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-21T15:37:23Z",
-                "open_issues": 2013,
+                "open_issues": 2014,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39250,
+                "stars": 39259,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:03:30.470Z",
+    "last_updated": "2026-11-22T20:18:21.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of recent monocular depth estimation papers",
